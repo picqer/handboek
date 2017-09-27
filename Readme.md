@@ -49,7 +49,7 @@ We hechten waarde aan:
 - Als je met relatief weinig tijd een belangrijk pijnpunt kan oplossen, ben je vrij om dat te doen.
 - Je krijgt geen punten voor complexiteit. Zowel code als gewone tekst wordt vaker gelezen dan geschreven, en processen worden vaker uitgevoerd dan bedacht. Daarom is het belangrijk om de tijd te nemen bij het schrijven van code, tekst of processen, als het lezen en uitvoeren ervan eenvoudiger wordt.
 - Laat het weten als je tegen problemen aanloopt, vraag om hulp, wees open over je eigen fouten en spreek anderen aan op hun fouten.
-- We verwijten elkaar niets en doen niet aan zwarte pieten. Wel leren we van onze eigen fouten en die van anderen, anders is het zonde dat we die fout gemaakt hebben.
+- We verwijten elkaar niets en doen niet aan zwartepieten. Wel leren we van onze eigen fouten en die van anderen, anders is het zonde dat we die fout gemaakt hebben.
 - Als we realiseren dat we een fout gemaakt hebben, herstellen we die en laten we betrokken partijen proactief weten wat er mis is gegaan en hoe we dat hebben opgelost.
 - We beloven externe partijen (klanten/partners) nooit nieuwe features of wanneer nieuwe features komen.
 - Je hoeft het niet te accepteren als iemand je slecht behandeld, ook niet als dat een klant of een belangrijke leverancier is.
@@ -128,7 +128,7 @@ We werken zoveel mogelijk asynchroon met geschreven documenten, maar er zijn enk
 ### Maandag bespreking
 Elke maandag om 9.30 uur doen we de ‘maandag bespreking’ met het hele team. Iedereen is daarbij aanwezig en we beginnen stipt om 9.30 uur.
 
-De bespreking duurt ongeveer 20 tot 30 minuten. We bespreken van alle verschillende disiplines de belangrijkste dingen van vorige week en wat er voor de komende week op de planning staat. Ook nemen we de belangrijkste cijfers van die week daarvoor door. Zo blijft iedereen bij wat er gebeurd en hebben we een centrale plek om elkaar vragen te stellen.
+De bespreking duurt ongeveer 20 tot 30 minuten. We bespreken van alle verschillende disiplines de belangrijkste dingen van vorige week en wat er voor de komende week op de planning staat. Ook nemen we de belangrijkste cijfers van die week daarvoor door. Zo blijft iedereen bij wat er gebeurt en hebben we een centrale plek om elkaar vragen te stellen.
 
 Zorg dat je vooraf de punten voorbereid die jij wilt bespreken. Voeg je punten toe aan de agenda, eventueel met links naar relevante documenten.
 
@@ -192,7 +192,7 @@ Als je ziek bent laat je dat zo vroeg mogelijk weten aan Stephan of Casper, uite
 
 Duurt je ziekte langer dan 1 dag, laat Stephan of Casper dan elke 1 of 2 dagen weten wat de stand van zaken is. We horen het ook graag als je weet wanneer je weer komt.
 
-We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je zo snel mogelijk weer (gedeeltelijk) aan het werk kan. We zijn wettelijk verplicht te zorgen dat je zo kort mogelijk ziek bent en wij besteden het uit zodat dit zo goed mogelijk gebeurd. De arbodienst neemt vaak contact op als je langer dan 1 week ziek bent.
+We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je zo snel mogelijk weer (gedeeltelijk) aan het werk kan. We zijn wettelijk verplicht te zorgen dat je zo kort mogelijk ziek bent en wij besteden het uit zodat dit zo goed mogelijk gebeurt. De arbodienst neemt vaak contact op als je langer dan 1 week ziek bent.
 
 ## OKR's<a name="okrs"></a>
 Met OKR's werken we gezamenlijk aan doelen. OKR staat voor Objectives and Key Results en wordt ook bij Intel en Google gebruikt om door het hele bedrijf samen te werken aan dezelfde doelen.
