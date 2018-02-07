@@ -128,7 +128,7 @@ We werken zoveel mogelijk asynchroon met geschreven documenten, maar er zijn enk
 ### Maandag bespreking
 Elke maandag om 9.30 uur doen we de ‘maandag bespreking’ met het hele team. Iedereen is daarbij aanwezig en we beginnen stipt om 9.30 uur.
 
-De bespreking duurt ongeveer 20 tot 30 minuten. We bespreken van alle verschillende disiplines de belangrijkste dingen van vorige week en wat er voor de komende week op de planning staat. Ook nemen we de belangrijkste cijfers van die week daarvoor door. Zo blijft iedereen bij wat er gebeurt en hebben we een centrale plek om elkaar vragen te stellen.
+De bespreking duurt ongeveer 20 tot 30 minuten. We bespreken van alle verschillende disciplines de belangrijkste dingen van vorige week en wat er voor de komende week op de planning staat. Ook nemen we de belangrijkste cijfers van die week daarvoor door. Zo blijft iedereen bij wat er gebeurt en hebben we een centrale plek om elkaar vragen te stellen.
 
 Zorg dat je vooraf de punten voorbereid die jij wilt bespreken. Voeg je punten toe aan de agenda, eventueel met links naar relevante documenten.
 
