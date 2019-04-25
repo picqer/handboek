@@ -126,13 +126,6 @@ Wel verwachten we dat je minstens 1 dag in de week op kantoor bent voor het dire
 ## Besprekingen<a name=“besprekingen”></a>
 We werken zoveel mogelijk asynchroon met geschreven documenten, maar er zijn enkele besprekingen die we face-to-face doen.
 
-### Maandag bespreking
-Elke maandag om 9.30 uur doen we de ‘maandag bespreking’ met het hele team. Iedereen is daarbij aanwezig en we beginnen stipt om 9.30 uur.
-
-De bespreking duurt ongeveer 20 tot 30 minuten. We bespreken van alle verschillende disciplines de belangrijkste dingen van vorige week en wat er voor de komende week op de planning staat. Ook nemen we de belangrijkste cijfers van die week daarvoor door. Zo blijft iedereen bij wat er gebeurt en hebben we een centrale plek om elkaar vragen te stellen.
-
-Zorg dat je vooraf de punten voorbereid die jij wilt bespreken. Voeg je punten toe aan de agenda, eventueel met links naar relevante documenten.
-
 ### 1-op-1’s
 Elke week heeft iedereen een 1-op-1 gesprek met zijn ‘manager’. Op dit moment is dat voor iedereen met Stephan. De 1-op-1 bespreking is er om te zorgen dat jij zo goed mogelijk je werk kan doen. 
 
@@ -161,7 +154,7 @@ Elke dag om 12:30 uur nemen we de tijd voor een gezamenlijke lunch. Een mooi mom
 
 We hebben lekkere koffie uit een goede koffiemachine, thee en onze koelkast is gevuld met fris. Voor de lekkere trek voorzien we in fruit en kleine versnaperingen.
 
-Suggesties voor boodschappen kan je doorgeven aan Casper.
+Suggesties voor boodschappen kan je doorgeven aan Stephan.
 
 ## Vakantie en verlof<a name="verlof"></a>
 Goede prestaties hangen samen met goed ontspannen. We hechten er veel waarde aan dat je regelmatig vakantie neemt en geniet van momenten met vrienden en familie. Daarom is het de bedoeling dat je vakantieuren opneemt in het jaar dat je ze hebt verdient. 
