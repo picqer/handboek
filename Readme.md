@@ -21,6 +21,7 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 
 ### Overige onderdelen
 - [Support](Support.md)
+- [Salaris en zo](Salaris-en-zo.md)
 
 ## Missie<a name="missie"></a>
 > Webwinkel magazijnen professionaliseren met eenvoudig te gebruiken software, inclusief fanatieke ondersteuning.
