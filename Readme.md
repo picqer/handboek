@@ -87,9 +87,9 @@ Zodra je je plekje hebt gevonden hebben we de eerste opdracht voor je: introduce
 
 Zie je voorgangers voor inspiratie:
 
-- Bram https://picqer.com/nl/blog/introductie-bram
-- Wouter https://picqer.com/nl/blog/introductie-wouter
-- Tom https://picqer.com/nl/blog/introductie-tom
+- Bram https://picqer.com/nl/blog/introductie-johan
+- Wouter https://picqer.com/nl/blog/introductie-kasper
+- Tom https://picqer.com/nl/blog/introductie-anna
 
 ### Leer je collega's kennen
 Een leuke werkplek hangt samen met een leuk team. Om iedereen te leren kennen kan je met een ieder een speeddate plannen. Zo leer je iedereen met wie je werkt al gelijk iets beter kennen. Een speeddate duurt ongeveer 15 minuten. Ga even apart zitten of loop samen een rondje.
@@ -184,7 +184,7 @@ Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vri
 Moet je naar de dokter, tandarts of kapper? Probeer dit buiten werktijden te plannen. Lukt dat niet, dan kan je die tijd ’s ochtends of ’s avonds inhalen. Lukt het je niet die tijd in dezelfde week in te halen, dan kan je daarvoor verlof opnemen.
 
 ### Verlof aanvragen
-We registeren alle verlof via Verlof App op https://verlof.reworkapps.nl. Je krijgt van ons een account om daar je vrije dagen aan te vragen. Daar vind je een overzicht van je beschikbare en gebruikte uren. Ook zie je daar de ingeplande uren van de rest van het team. Zo kan je kijken of de geplande periode niet teveel overlapt met de rest van het team.
+We registeren alle verlof via Verlof App op https://app.rework.nl. Je krijgt van ons een account om daar je vrije dagen aan te vragen. Daar vind je een overzicht van je beschikbare en gebruikte uren. Ook zie je daar de ingeplande uren van de rest van het team. Zo kan je kijken of de geplande periode niet teveel overlapt met de rest van het team.
 
 ### Ziekte
 Ziek zijn is erg vervelend. Maar ziek is ziek, en het is belangrijk dat je goed beter wordt voordat je weer aan het werk gaat.
