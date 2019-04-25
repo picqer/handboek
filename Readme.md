@@ -214,21 +214,24 @@ Mocht je de verleiding niet kunnen weerstaan dan zullen we gepaste maatregelen n
 ## Geschiedenis van Picqer<a name="geschiedenis"></a>
 In 2012 zijn Casper Bakker, Pascal Kousbroek en Stephan Groen begonnen met het ontwikkelen van Picqer. Dit deden we nog in het bedrijf Logict, waarmee we websites en webapplicaties voor klanten ontwikkelden.
 
-In 2013 werden we al gelijk opgenomen in de [Challenger50 lijst](https://www.sprout.nl/lijsten/challenger-50-van-2013/picqer) van Sprout. Later dat jaar is Pascal gestopt bij Logict/Picqer om direct bij een klant van Logict te gaan werken.
+In 2013 werden we gelijk opgenomen in de [Challenger50 lijst](https://www.sprout.nl/lijsten/challenger-50-van-2013/picqer) van Sprout. Later dat jaar is Pascal gestopt bij Logict/Picqer om direct bij een klant van Logict te gaan werken.
 
 In 2014 liep Picqer zo goed, dat we ons volledig zijn gaan richten op Picqer. De andere ondernemingen die we nog hadden (Logict, Earny, MedNext en CQ) hebben we toen verkocht. We maakten toen nog flink verlies, maar hebben salaris ingeleverd en geld van de verkopen ingelegd om Picqer te laten groeien.
 
 In 2015, een jaar na onze focus op Picqer, was Picqer cashflow-positief en was de ergste druk eraf. Vanaf toen zijn we mensen gaan aannemen om met een leuk team Picqer nog verder te laten groeien.
+
+In 2018 werd het tijd voor een serieus kantoor. [Rosanne ontworp](https://picqer.com/nl/blog/we-gaan-verhuizen) voor ons een inrichting die perfect bij ons past: een kantoor waar je rustig kan werken in een lichte en transparante omgeving.
 
 Overige mijlpalen:
 
 - 2014: Een [eigen Picqer pand](https://picqer.com/nl/blog/verhuizen) in Doesburg
 - 2014: Sophie werkte een half jaar bij ons als eerste medewerker
 - 2015: Picqer voor het eerst op de Webwinkel Vakdagen
-- 2015: Verhuizen het kantoor naar de Meander in Arnhem
+- 2015: Verhuizen het kantoor naar de Meander 251 in Arnhem
 - 2016: Bram, Roald en Wouter bij het team gekomen
 - 2016: Eerste Picqer Meet & Grill
-- 2017: Tom en Bo bij het team gekomen
+- 2018: Verhuizing naar ons eigen kantoor op Meander 601, Désirée, Wouter en Sabina bij het team gekomen
+- 2019: Johan, Kasper en Anna bij het team gekomen
 
 ## Inspiratie handboeken
 Dit zijn andere gave handboeken waar we inspiratie uit gehaald hebben:
