@@ -66,21 +66,19 @@ Leuk dat je bij Picqer begint! Deze stappen helpen je om snel aan de slag te gaa
 
 We zullen je de eerste dag vooral laten wennen. Zorgen dat je bekend bent met de tools en het koffiezetapparaat en dat je weet hoe alles werkt. Lees ook dit volledige handboek door.
 
-Voor vragen kan je natuurlijk bij iedereen terecht, maar je krijgt ook een 'buddy' die zorgt dat je niet verdrinkt.
-
-De 2e dag zal je eerste echte werkdag zijn: je gaat je eerste steentjes bijdragen. Met Stephan of Casper zal je concrete taken bespreken waar je mee kan beginnen.
+Voor vragen kan je natuurlijk bij iedereen terecht, maar je krijgt ook een 'buddy' die zorgt dat je niet verdrinkt. En we hebben checklist om je eerste dag wat structuur te geven.
 
 ### Je werkplek en de tools
-Als je aankomt staat de basis van je werkplek al klaar, zoals je laptop, telefoon, bureau en stoel. Je ontvangt van ons logins tot onze belangrijkste tools:
+Als je aankomt staat de basis van je werkplek al klaar, zoals je laptop, telefoon, bureau en stoel. Je ontvangt van ons toegang tot onze belangrijkste tools:
 
 - Picqer admin, de tool waarmee je Picqer kan beheren
 - Google Apps, je mail en Google Docs
-- HelpScout, onze e-mailsupport tool
+- HelpScout, onze support tool (indien je een support of sales rol hebt)
 - Basecamp, waarin we veel documenten bijhouden
 - Slack, onze chat app
-- Github, waar de broncode leeft
+- Github, waar de broncode leeft (indien je een technische rol hebt)
 
-Voor de standaard tools hebben we een wachtwoord voor je aangemaakt. Dit wachtwoord is hetzelfde voor alle tools. Dat is natuurlijk niet zo veilig. Vervang deze door een wachtwoord die je bewaard in 1Password.
+Zorg dat je voor elke tool een ander wachtwoord gebruikt. Beheer je wachtwoorden met 1Password. Voor Google Apps en de Picqer Admin ontvang je van ons een wachtwoord. Voor de andere tools krijg je een uitnodiging om je eigen account aan te maken.
 
 ### Jezelf introduceren
 Zodra je je plekje hebt gevonden hebben we de eerste opdracht voor je: introduceer jezelf bij de Picqer gebruikers middels een blogpost.
@@ -101,7 +99,9 @@ Om je wel verdiende buit aan je over te maken hebben we extra gegevens van je no
 Hierna moedigen we je aan om in het diepe te springen. Overleg met Casper of Stephan wat je eerste echte taken worden. In de meeste gevallen zal dit aan het begin van je 2e dag zijn.
 
 ## Elke dag<a name="elke-dag"></a>
-We zeggen iedereen gedag als we op kantoor aankomen en als we weggaan. Werk je thuis? Zeg dan op de chat gedag. Het zijn de kleine dingen die maken dat we ons een echt team voelen.
+Als je binnenkomt is het fijn iedereen te begroeten, zolang je ze niet stoort in hun werk.
+
+Aan het einde van elke dag krijg je een mail met de vraag wat je gedaan hebt. Dit is voor jezelf om te reflecteren op de dag en om de rest van het team te laten weten wat er speelt. (Dit is dus niet om te zien of je wel hard genoeg werkt.)
 
 ## Elke week of maand
 Neem regelmatig een kijkje bij een klant. Door bij een klant te kijken hoe ze werken en hoe ze Picqer gebruiken krijg je meer feeling voor wat klanten belangrijk vinden. Ook vinden klanten het altijd leuk als er iemand van Picqer op bezoek komt. Maak wel van te voren een afspraak met de klant voor een geschikt moment.
@@ -109,12 +109,14 @@ Neem regelmatig een kijkje bij een klant. Door bij een klant te kijken hoe ze we
 ## Werktijden<a name=“werktijden”></a>
 We hebben geen vaste werktijden, maar als je een contract hebt voor 40 uur over 5 dagen, dan verwachten we dat je de uren ongeveer gelijk over 5 dagen verdeelt. Dus geen 40 uur in 4 dagen, omdat niemand na 8-9 uur werken nog fris is.
 
-De meesten werken ongeveer van 8.30 tot 17.00 uur of van 9.00 tot 17.30 uur. Dat is 8 uur met een half uur pauze.
+De meesten werken ongeveer van 8.30 tot 17.00 uur of van 8.00 tot 16.30 uur. Dat is 8 uur met een half uur pauze.
 
 Ieder heeft zijn eigen sleutel tot kantoor en je kan daarom zelf bepalen hoe laat je begint en eindigt.
 
 ### Support tijden
 Support per telefoon doen we op werkdagen van 9.00 tot 17.00 uur. Support per e-mail doen we in principe ook tussen die tijden, al is dat iets flexibeler. Iedereen die support doet regelt gezamenlijk dat er tussen die tijden support geleverd wordt.
+
+We zijn telefonisch bereikbaar van 8.55 tot 17.05, om te voorkomen dat bellers een bandje krijgen dat we vanaf 9 uur bereikbaar zijn terwijl het 8.59:55 is.
 
 ### Thuis werken
 Als je een rustige plek hebt waar je thuis kan werken, mag je ook vanuit huis werken. Of bij iemand anders op kantoor.
@@ -161,7 +163,7 @@ Goede prestaties hangen samen met goed ontspannen. We hechten er veel waarde aan
 
 Vakantieuren kan je niet meenemen naar het volgende kalenderjaar.
 
-Indien je meer vakantie nodig hebt dan je nog tegoed hebt dan kan je in overleg onbetaald verlof krijgen.
+Indien je meer vakantie nodig hebt dan je nog tegoed hebt kan je in overleg onbetaald verlof krijgen.
 
 ### Feestdagen
 Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vrij op de volgende dagen:
