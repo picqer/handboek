@@ -15,7 +15,6 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Tools](#tools)
 - [Lunch & Koffie](#lunch)
 - [Verlof en ziekte](#verlof)
-- [OKR's](#okrs)
 - [Veiligheid & Privacy](#privacy)
 - [Geschiedenis](#geschiedenis)
 
@@ -189,15 +188,6 @@ Als je ziek bent laat je dat zo vroeg mogelijk weten aan Stephan of Casper, uite
 Duurt je ziekte langer dan 1 dag, laat Stephan of Casper dan elke 1 of 2 dagen weten wat de stand van zaken is. We horen het ook graag als je weet wanneer je weer komt.
 
 We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je zo snel mogelijk weer (gedeeltelijk) aan het werk kan. We zijn wettelijk verplicht te zorgen dat je zo kort mogelijk ziek bent en wij besteden het uit zodat dit zo goed mogelijk gebeurt. De arbodienst neemt vaak contact op als je langer dan 1 week ziek bent.
-
-## OKR's<a name="okrs"></a>
-Met OKR's werken we gezamenlijk aan doelen. OKR staat voor Objectives and Key Results en wordt ook bij Intel en Google gebruikt om door het hele bedrijf samen te werken aan dezelfde doelen.
-
-Een algemene uitleg van OKR vind je op [Basecamp](https://3.basecamp.com/3093964/buckets/1408727/documents/452659037).
-
-Elk kwartaal bepalen we gezamenlijk wat we belangrijk vinden om aan te werken. Dat zijn doelen en concrete acties voor alle onderdelen binnen Picqer, zoals sales, support, development en intern. Zo zorgen we dat we met z'n allen aan dezelfde doelen werken en voorkomt dat we stuurloos allemaal een andere kant op werken.
-
-Zodra de OKR's voor het kwartaal bepaald zijn, werkt iedereen zelfstandig aan het halen van de doelstellingen. 
 
 ## Veiligheid en privacy<a name="privacy"></a>
 
