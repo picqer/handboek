@@ -25,7 +25,7 @@ Harde doelstellingen op dit moment zijn:
 - Minstens 80% binnen 2 uur beantwoorden
 
 ### Sturen op e-mail
-Als een klant belt en geen telefonische ondersteuning in zijn pakket heeft, probeer hem of haar te stimleren de vraag per e-mail te stellen. Het afhandelen van vragen per e-mail is sneller en secuurder. Bovendien is het makkelijker hulp in te roepen of iets na te lezen.
+Als een klant belt en geen telefonische ondersteuning in zijn pakket heeft, probeer hem of haar te stimuleren de vraag per e-mail te stellen. Het afhandelen van vragen per e-mail is sneller en secuurder. Bovendien is het makkelijker hulp in te roepen of iets na te lezen.
 
 Daarom is het ook belangrijk dat we e-mails van klanten snel en volledig beantwoorden. Niets is vervelender voor een klant als hij of zij na 2 uur maar op 2 van de 5 vragen antwoord heeft gekregen. Klanten zullen dan snel naar de telefoon grijpen.
 
