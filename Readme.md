@@ -84,9 +84,9 @@ Zodra je je plekje hebt gevonden hebben we de eerste opdracht voor je: introduce
 
 Zie je voorgangers voor inspiratie:
 
-- Bram https://picqer.com/nl/blog/introductie-johan
-- Wouter https://picqer.com/nl/blog/introductie-kasper
-- Tom https://picqer.com/nl/blog/introductie-anna
+- Wouter https://picqer.com/nl/blog/introductie-desiree
+- Kasper https://picqer.com/nl/blog/introductie-kasper
+- Anna https://picqer.com/nl/blog/introductie-anna
 
 ### Leer je collega's kennen
 Een leuke werkplek hangt samen met een leuk team. Om iedereen te leren kennen kan je met een ieder een speeddate plannen. Zo leer je iedereen met wie je werkt al gelijk iets beter kennen. Een speeddate duurt ongeveer 15 minuten. Ga even apart zitten of loop samen een rondje.
