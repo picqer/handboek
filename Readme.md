@@ -175,7 +175,7 @@ Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vri
 - Eerste en tweede kerstdag
 
 ### Dokter- of tandartsbezoek
-Moet je naar de dokter of tandarts? Probeer dit buiten werktijd te plannen. Lukt dat niet, plan het dan zo vroeg of laat mogelijk op de dag. De tijd die je toch tijdens werktijd nodig hebt wordt doorbetaald. Registreer deze tijd via [Verlof App](https://app.rework.nl), onder de categorie "Dokter, tandarts".
+Moet je naar de dokter of tandarts? Probeer dit buiten werktijd te plannen. Lukt dat niet, plan het dan zo vroeg of zo laat mogelijk op de dag. De tijd die je toch tijdens werktijd nodig hebt wordt doorbetaald. Registreer deze tijd via [Verlof App](https://app.rework.nl), onder de categorie "Dokter, tandarts".
 
 ### Verlof aanvragen
 We registeren alle verlof via Verlof App op https://app.rework.nl. Je krijgt van ons een account om daar je vrije dagen aan te vragen. Daar vind je een overzicht van je beschikbare en gebruikte uren. Ook zie je daar de ingeplande uren van de rest van het team. Zo kan je kijken of de geplande periode niet teveel overlapt met de rest van het team.
