@@ -72,7 +72,7 @@ Als je aankomt staat de basis van je werkplek al klaar, zoals je laptop, telefoo
 
 - Picqer admin, de tool waarmee je Picqer kan beheren
 - Google Apps, je mail en Google Docs
-- HelpScout, onze support tool (indien je een support of sales rol hebt)
+- Frontapp / Front, onze support tool (indien je een support of sales rol hebt)
 - Basecamp, waarin we veel documenten bijhouden
 - Slack, onze chat app
 - Github, waar de broncode leeft (indien je een technische rol hebt)
@@ -141,7 +141,7 @@ We gebruiken de volgende tools:
 Hierin staan alle klanten en alle leads. Dit wordt daarom veel gebruikt voor support en voor sales. Ook houden we hier suggesties van klanten bij.
 - **Gmail/Google Apps**
 Iedereen krijgt een @picqer.com e-mailadres. Dit zit gekoppeld aan Gmail en aan Google Apps. Via daar kan je agenda’s gebruiken en documenten delen (zoals de agenda van de maandag bespreking).
-- **HelpScout** (https://secure.helpscout.net/)
+- **Frontapp** (https://app.frontapp.com/)
 Hierin komen alle e-mails die naar info@picqer.com (Nederlands) en hello@picqer.com (Engels) worden gestuurd. Probeer alle communicatie met klanten via deze adressen te doen in plaats van via je persoonlijke e-mailadres, dan is het makkelijker terug te vinden en zijn klanten gewend om naar iedereen te mailen in plaats van naar jou persoonlijk.
 - **Basecamp** (https://3.basecamp.com/3093964/)
 Op Basecamp staan veel algemene documenten om samen aan te werken, zoals OKR’s en sales en marketing documenten. Ook kan je elke week op Basecamp vermelden waar je deze week aan gewerkt hebt, zodat iedereen mee krijgt wat er in heel Picqer voor een werk verzet wordt.
