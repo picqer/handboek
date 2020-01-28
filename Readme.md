@@ -15,6 +15,7 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Tools](#tools)
 - [Lunch & Koffie](#lunch)
 - [Verlof en ziekte](#verlof)
+- [Nevenactiviteiten](#nevenactiviteiten)
 - [Veiligheid & Privacy](#privacy)
 - [Geschiedenis](#geschiedenis)
 
@@ -189,7 +190,7 @@ Duurt je ziekte langer dan 1 dag, laat Stephan of Casper dan elke 1 of 2 dagen w
 
 We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je zo snel mogelijk weer (gedeeltelijk) aan het werk kan. We zijn wettelijk verplicht te zorgen dat je zo kort mogelijk ziek bent en wij besteden het uit zodat dit zo goed mogelijk gebeurt. De arbodienst neemt vaak contact op als je langer dan 1 week ziek bent.
 
-## Nevenactiviteiten
+## Nevenactiviteiten<a name="nevenactiviteiten"></a>
 
 We vinden het leuk dat je naast je werk een activiteit hebt om energie in te steken of van te krijgen. Vraag voordat je aan nevenactiviteiten begint toestemming bij Stephan. 
 
