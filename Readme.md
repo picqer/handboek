@@ -189,6 +189,17 @@ Duurt je ziekte langer dan 1 dag, laat Stephan of Casper dan elke 1 of 2 dagen w
 
 We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je zo snel mogelijk weer (gedeeltelijk) aan het werk kan. We zijn wettelijk verplicht te zorgen dat je zo kort mogelijk ziek bent en wij besteden het uit zodat dit zo goed mogelijk gebeurt. De arbodienst neemt vaak contact op als je langer dan 1 week ziek bent.
 
+## Nevenactiviteiten
+
+We vinden het leuk dat je naast je werk een activiteit hebt om energie in te steken of van te krijgen. Vraag voordat je aan nevenactiviteiten begint toestemming bij Stephan. 
+
+Er zijn een paar richtlijnen om op te letten bij nevenactiviteiten:
+- Let er op dat er geen belangenverstrengeling is. Dit kan het geval zijn wanneer je activiteiten uitvoert die gerelateerd zijn aan je werk bij Picqer of aan Picqer als bedrijf. 
+- Sommige informatie die je via Picqer kent is vertrouwelijk. Vanzelfsprekend mag je deze informatie niet gebruiken bij je nevenactiviteiten.
+- Zorg dat je voor je werk bij Picqer altijd voldoende energie hebt en genoeg rust houdt. We geven daar veel aandacht aan tijdens je werk bij Picqer, bij je nevenactiviteiten moet je hier zelf goed op letten.
+
+Deze richtlijnen en je eigen gevoel geven je vaak aan wat er wel en niet kan. Overleg bij twijfel altijd even met Stephan of Casper. 
+
 ## Veiligheid en privacy<a name="privacy"></a>
 
 ### Respecteer privacy
