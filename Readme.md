@@ -234,8 +234,8 @@ Overige mijlpalen:
 - 2015: Verhuizen het kantoor naar de Meander 251 in Arnhem
 - 2016: Bram, Roald en Wouter bij het team gekomen
 - 2016: Eerste Picqer Meet & Grill
-- 2018: Verhuizing naar ons eigen kantoor op Meander 601, Désirée, Wouter en Sabina bij het team gekomen
-- 2019: Johan, Kasper en Anna bij het team gekomen
+- 2019: Johan, Kasper, Anna en Bob bij het team gekomen
+- 2019: Picqer wint FD Gazellen als #1 van Gelderland en #40 van Nederland
 
 ## Inspiratie handboeken
 Dit zijn andere gave handboeken waar we inspiratie uit gehaald hebben:
