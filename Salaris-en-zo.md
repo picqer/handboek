@@ -1,8 +1,8 @@
 # Salaris en zo
 We werken met een standaard salaris volgens onze salarisformule. Daarmee verdient iedereen die hetzelfde werk doet hetzelfde geld, ongeacht hoe goed je kan onderhandelen. 
 
-### Niveau's
-Voor elke rol hebben we 4 niveau's: junior, regular/medior, senior en lead. Elke rol heeft per niveau een vast salaris. Tussen elk niveau is 1 stap in de salarisformule aanwezig, zodat we de groei binnen je niveau kunnen belonen.
+### Niveaus
+Voor elke rol hebben we 4 niveaus: junior, regular/medior, senior en lead. Elke rol heeft per niveau een vast salaris. Tussen elk niveau is 1 stap in de salarisformule aanwezig, zodat we de groei binnen je niveau kunnen belonen.
 
 Een junior is iemand die net van school komt en nog in de eerste jaren van deze rol zit, hier leren we je nog veel nieuwe dingen. Bij regular/medior kan je de dagelijkse werkzaamheden zelfstandig op een goed niveau uitvoeren en heb je minstens 2-3 jaar ervaring in deze rol. Bij senior en lead verwachten we hoge mate van zelfstandigheid en 'leiderschap' in je vakgebied. Per rol definiëren we wat een senior en een lead aan het team toevoegen.
 
