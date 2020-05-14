@@ -168,12 +168,13 @@ Indien je meer vakantie nodig hebt dan je nog tegoed hebt kan je in overleg onbe
 ### Feestdagen
 Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vrij op de volgende dagen:
 
-- Nieuwjaarsdag
+- Nieuwjaarsdag (1 januari)
 - Tweede paasdag
-- Koningsdag
+- Koningsdag (27 april)
+- Bevrijdingsdag (5 mei - eens per 5 jaar: 2025, 2030, etcetera)
 - Hemelvaartsdag
 - Tweede pinksterdag
-- Eerste en tweede kerstdag
+- Eerste en tweede kerstdag (25 en 26 december)
 
 ### Dokter- of tandartsbezoek
 Moet je naar de dokter of tandarts? Probeer dit buiten werktijd te plannen. Lukt dat niet, plan het dan zo vroeg of zo laat mogelijk op de dag. De tijd die je toch tijdens werktijd nodig hebt wordt doorbetaald. Registreer deze tijd via [Verlof App](https://app.rework.nl), onder de categorie "Dokter, tandarts".
