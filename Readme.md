@@ -192,7 +192,6 @@ Duurt je ziekte langer dan 1 dag, laat Stephan of Casper dan elke 1 of 2 dagen w
 We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je zo snel mogelijk weer (gedeeltelijk) aan het werk kan. We zijn wettelijk verplicht te zorgen dat je zo kort mogelijk ziek bent en wij besteden het uit zodat dit zo goed mogelijk gebeurt. De arbodienst neemt vaak contact op als je langer dan 1 week ziek bent.
 
 ## Nevenactiviteiten<a name="nevenactiviteiten"></a>
-
 We vinden het leuk dat je naast je werk een activiteit hebt om energie in te steken of van te krijgen. Vraag voordat je aan nevenactiviteiten begint toestemming bij Stephan. 
 
 Er zijn een paar richtlijnen om op te letten bij nevenactiviteiten:
@@ -237,6 +236,7 @@ Overige mijlpalen:
 - 2016: Eerste Picqer Meet & Grill
 - 2019: Johan, Kasper, Anna, Ramon en Bob bij het team gekomen
 - 2019: Picqer wint FD Gazellen als #1 van Gelderland en #40 van Nederland
+- 2020: Bram F, Kim en Erik bij het team gekomen. Door het coronavirus werken we sinds begin maart allemaal thuis.
 
 ## Inspiratie handboeken
 Dit zijn andere gave handboeken waar we inspiratie uit gehaald hebben:

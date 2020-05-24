@@ -16,10 +16,10 @@ Dan gaat het over problemen die klanten hebben met Picqer. Dit kan gaan over bug
 
 Ook helpen we klanten met dingen in het magazijn die niet direct met Picqer te maken hebben. Zoals vragen over hoe het magazijn het beste ingericht kan worden.
 
-We proberen de klant zoveel mogelijk zelfredzaam te maken, zodat bij een soortgelijke vraag in de toekomst het antwoord al bekend is. We proberen zo min mogelijk voor de klant uit te voeren, maar leren de klant juist hoe het zelf gedaan kan worden. (Sommige dingen komen maar heel soms voor waarbij het voor ons en voor de klant beter is als wij het even instellen. We zijn echter geen externe medewerker voor de klant.)
+We proberen de klant zoveel mogelijk zelfredzaam te maken, zodat bij een soortgelijke vraag in de toekomst het antwoord al bekend is. We proberen zo min mogelijk voor de klant uit te voeren, maar leren de klant juist hoe hij of zij het zelf kan. (Sommige dingen komen maar heel soms voor waarbij het voor ons en voor de klant beter is als wij het even instellen. We zijn echter geen externe medewerker van de klant.)
 
 ## Hoe wil je zelf geholpen worden?
-We vinden het belangrijk dat we klanten support bieden op de manier dat we het zelf ook fijn vinden. Vraag jezelf dus regelmatig af "hoe wil ik zelf in dit geval geholpen worden?"
+We vinden het belangrijk dat we klanten support bieden zoals we het zelf zouden willen ontvangen. Vraag jezelf dus regelmatig af "hoe wil ik in dit geval zelf geholpen worden?"
 
 ## Kanalen
 Op dit moment geven we alleen actieve support via telefoon (085-3030690) en e-mail (info@picqer.com en hello@picqer.com).
@@ -38,7 +38,7 @@ Doelstellingen op dit moment zijn:
 - Binnenkomende telefoongesprekken worden binnen 1 minuut opgenomen.
 
 ## Suggesties
-Suggesties van klanten zijn erg welkom. Ongeveer 80% van alle verbeteringen aan Picqer, komt door suggesties van klanten. We krijgen echter veel meer suggesties binnen dan we in Picqer kunnen oplossen, en suggesties worden soms maanden of jaren later doorgevoerd waardoor het belangrijk is om de verwachtingen hierover bij klanten goed te managen.
+Suggesties van klanten zijn erg welkom. Ongeveer 80% van alle verbeteringen aan Picqer, komen door suggesties van klanten. We krijgen echter veel meer suggesties binnen dan we in Picqer kunnen doorvoeren, en suggesties worden soms maanden of jaren later doorgevoerd. Daarom is het belangrijk de verwachtingen goed te managen.
 
 ### Wat doen we met suggesties?
 Op basis van de richting van Picqer en waar we veel suggesties over krijgen, bepalen we waar we de komende periode aan gaan werken. We kijken niet verder dan de eerst volgende periode. Elke periode heeft een bepaald thema, zoals inkoop of picklijsten. Per thema kijken we welke problemen we willen oplossen en op welke manier we dat gaan oplossen. We kijken daarbij altijd naar de suggesties die er over dat thema zijn ingediend.
