@@ -20,7 +20,6 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Geschiedenis](#geschiedenis)
 
 ### Overige onderdelen
-- [Support](Support.md)
 - [Salaris en zo](Salaris-en-zo.md)
 
 ## Missie<a name="missie"></a>
