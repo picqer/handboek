@@ -113,9 +113,7 @@ De meesten werken ongeveer van 8.30 tot 17.00 uur of van 8.00 tot 16.30 uur. Dat
 Ieder heeft zijn eigen sleutel tot kantoor en je kan daarom zelf bepalen hoe laat je begint en eindigt.
 
 ### Support tijden
-Support per telefoon doen we op werkdagen van 9.00 tot 17.00 uur. Support per e-mail doen we in principe ook tussen die tijden, al is dat iets flexibeler. Iedereen die support doet regelt gezamenlijk dat er tussen die tijden support geleverd wordt.
-
-We zijn telefonisch bereikbaar van 8.55 tot 17.05, om te voorkomen dat bellers een bandje krijgen dat we vanaf 9 uur bereikbaar zijn terwijl het 8.59:55 is.
+Support is bereikbaar via per e-mail op werkdagen van 9.00 tot 17.00 uur. Iedereen die support doet regelt gezamenlijk dat er tussen die tijden support geleverd wordt.
 
 ### Thuis werken
 Als je een rustige plek hebt waar je thuis kan werken, mag je ook vanuit huis werken. Of bij iemand anders op kantoor.
