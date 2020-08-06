@@ -11,7 +11,7 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Je eerste dag](#eerste-dag)
 - [Elke dag](#elke-dag)
 - [Werktijden](#werktijden)
-- [Besprekingen](#besprekingen)
+- [1 op 1's](#een-op-een)
 - [Tools](#tools)
 - [Lunch & Koffie](#lunch)
 - [Verlof en ziekte](#verlof)
@@ -134,12 +134,14 @@ Als je vanaf een andere plek werkt, laat het de rest van het team weten via de c
 ## Besprekingen<a name=“besprekingen”></a>
 We werken zoveel mogelijk asynchroon met geschreven documenten, maar er zijn enkele besprekingen die we face-to-face doen.
 
-### 1-op-1’s
-Elke week heeft iedereen een 1-op-1 gesprek met zijn ‘manager’. Op dit moment is dat voor iedereen met Stephan. De 1-op-1 bespreking is er om te zorgen dat jij zo goed mogelijk je werk kan doen. 
+## 1-op-1’s<a name=een-op-een></a>
+Elke 2 weken heeft iedereen een 1-op-1 gesprek met zijn ‘manager’. De 1-op-1 bespreking is er om te zorgen dat jij zo goed mogelijk je werk kan doen. (In je eerste maanden bij Picqer heb je elke week een 1-op-1 gesprek, om te zorgen dat je je snel thuis voelt.)
 
 Je mag het in dit gesprek over alles hebben, het gesprek is ‘van jou’. Bijvoorbeeld over wat er goed gaat of minder goed gaat in het team, met het product, met support. Of over hoe het bij je thuis gaat. Of je wilt het ‘waarom’ weten van iets. Alles is bespreekbaar.
 
-Ook krijg je in dit gesprek feedback over wat je goed doet en wat er beter kan. Dit gesprek duurt meestal 30 tot 60 minuten.
+Ook krijg je in dit gesprek feedback over wat je goed doet en wat er beter kan. En jij kan direct feedback geven aan je 'manager'. Zo is er een continu gesprek waarin we kleine (of grote) irritaties zo snel mogelijk verhelpen.
+
+Dit gesprek duurt meestal 30 tot 60 minuten.
 
 ## Tools<a name="tools"></a>
 We gebruiken de volgende tools:
