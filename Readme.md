@@ -5,9 +5,9 @@ Dit is een levend document, net zoals alles eigenlijk bij Picqer. Als we nieuwe 
 
 Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op alles binnen Picqer.
 
-- [Missie](#missie)
+- [Doel](#doel)
 - [Values](#values)
-- [Richtlijnen](#richtlijnen)
+- [Principes](#principes)
 - [Je eerste dag](#eerste-dag)
 - [Elke dag](#elke-dag)
 - [Werktijden](#werktijden)
@@ -21,13 +21,28 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 
 ### Overige onderdelen
 - [Salaris en zo](Salaris-en-zo.md)
+- [Interne informatie index](https://3.basecamp.com/3093964/buckets/1781603/documents/2519103430) (enkel intern)
 
-## Missie<a name="missie"></a>
-> Webwinkel magazijnen professionaliseren met eenvoudig te gebruiken software, inclusief fanatieke ondersteuning.
+## Doel<a name="doel"></a> <a name="missie"></a>
+Ons doel is:
+> De beste software voor webwinkel magazijnen
 
-Hoe kunnen we webwinkel magazijnen efficienter en effectiever laten werken? Hoe kunnen we onze software nog eenvoudiger maken in gebruik? Hoe kunnen we klanten het beste helpen? Dat zijn vragen waar we bij Picqer continu mee bezig zijn.
+We hoeven niet de grootste of de bekendste te zijn, ons doel is om de beste software voor webwinkel magazijnen te maken. Picqer is er voor de meeste webwinkels, maar dat betekent ook dat we niet voor iedereen zijn. Om te zorgen dat 80% van de markt snel en makkelijk met Picqer kan werken, moeten we zo weinig mogelijk uitzonderingen ondersteunen.
 
-En soms kunnen we magazijnen helpen zonder software. Bijvoorbeeld door ze een goede tip te geven of ze te inspireren.
+Er zullen altijd edge-cases zijn die we niet 100% ondersteunen. Die trade-off is nodig om te zorgen dat 80% van de markt van simpele en leuke software kan genieten. Voor de 20% edge-cases zijn er voldoende consultants en maatwerk pakketten om hun processen te automatiseren.
+
+'Beste' is de overtreffende trap van 'goed'. Voor onze doelgroep maken we dus software die beter is dan 'goed'. Karakteristieken van “beter dan goede software” zijn: waardevol, begrijpbaar, geen magic, verbergen van technische details, “convention over configuration”. 
+
+Gebruikers moeten de software vertrouwen. Vertrouwen komt van: weinig bugs (bugvrije software bestaat niet), doen wat je verwacht, gebruiker laten weten als er iets mis gaat, en ‘debuggable’ (dat er te achterhalen is waarom iets mis gaat).
+
+Daarnaast is goede software [snel](https://craigmod.com/essays/fast_software/), mooi en robuust.
+
+[Meer info in onze manifesto](https://3.basecamp.com/3093964/buckets/1781603/documents/2200430377) (enkel intern)
+
+## Product en support
+Een goed product en goede support zijn de kern van Picqer. Dat is wat onze gebruikers dagelijks ervaren en zijn de motor voor lange termijn groei en voor ons eigen werkgeluk.
+
+Marketing en sales kunnen zorgen dat we meer mensen kunnen bereiken met ons product, maar zijn ondersteunend en katalysatoren. Ze versterken de impact die ons product en support kan hebben.
 
 ## Values<a name="values"></a>
 We hechten waarde aan:
@@ -40,7 +55,7 @@ We hechten waarde aan:
 1. **Efficiency**: We krijgen het meeste gedaan als we de *goede* dingen doen en de *belangrijkste* dingen als eerste doen. We doen niet meer dan nodig en proberen dubbel werk te voorkomen. Als iets vaker moet gebeuren proberen we dat te automatiseren. En omdat we niet alles kunnen doen, betekent het dat sommige dingen nooit worden gedaan omdat ze niet belangrijk genoeg zijn en dat is prima.
 1. **Work together**: Vertel wat je doet en waarom. Vertel waar je last van hebt, wanneer je niet verder komt of hulp nodig hebt. Kom met nieuwe ideeën, moedig anderen aan hun ideeën te realiseren. Blijf op de hoogte van wat de rest doet en toon interesse.
 
-## Richtlijnen<a name="richtlijnen"></a>
+## Principes<a name="principes"></a> <a name="richtlijnen"></a>
 - Doe wat het beste is voor onze klanten, de klanten van onze klanten, voor collega's en voor partners (en in deze volgorde). Doe wat het beste is voor de lange termijn.
 - Belangrijke dingen schrijven we op. Geschreven tekst heeft veel voordelen over gesproken woord: lezen is sneller, doorzoekbaar, consistenter en schaalbaarder.
 - *Perfection is the enemy of done.* We kunnen altijd alles nog verbeteren. Wacht daarom niet te lang met iets te lanceren of te delen. En niet alleen met software, maar ook met kleine documenten. Het gaat om vooruitgang, push wat je hebt en ga er later op verder. Zo ook dit handboek.
@@ -68,34 +83,30 @@ We zullen je de eerste dag vooral laten wennen. Zorgen dat je bekend bent met de
 Voor vragen kan je natuurlijk bij iedereen terecht, maar je krijgt ook een 'buddy' die zorgt dat je niet verdrinkt. En we hebben checklist om je eerste dag wat structuur te geven.
 
 ### Je werkplek en de tools
-Als je aankomt staat de basis van je werkplek al klaar, zoals je laptop, telefoon, bureau en stoel. Je ontvangt van ons toegang tot onze belangrijkste tools:
-
-- Picqer admin, de tool waarmee je Picqer kan beheren
-- Google Apps, je mail en Google Docs
-- Front, onze support tool (indien je een support, sales of support-engineer rol hebt)
-- Basecamp, waarin we veel documenten bijhouden
-- Slack, onze chat app
-- Github, waar de broncode leeft (indien je een technische rol hebt)
+Als je aankomt staat de basis van je werkplek al klaar, zoals je laptop, bureau en stoel. Je ontvangt van ons toegang tot onze [belangrijkste tools](#tools).
 
 Zorg dat je voor elke tool een ander wachtwoord gebruikt. Beheer je wachtwoorden met 1Password. Voor Google Apps en de Picqer Admin ontvang je van ons een wachtwoord. Voor de andere tools krijg je een uitnodiging om je eigen account aan te maken.
 
+### Leer je collega's kennen
+Een leuke werkplek hangt samen met een leuk team. Om iedereen te leren kennen kan je met een ieder een speeddate plannen. Zo leer je iedereen met wie je werkt al gelijk iets beter kennen. Een speeddate duurt ongeveer 15 minuten. Ga even apart zitten of loop samen een rondje.
+
+### Inlezen
+Meestal is het fijn eerst interne documentatie en communicatie te lezen, zodat je een gevoel hebt hoe Picqer werkt en hoe we onderling samenwerken. Al die informatie staat zoveel mogelijk op Basecamp, ons intranet. [Dit is het startpunt](https://3.basecamp.com/3093964/buckets/1781603/documents/2519103430) voor interne informatie op Basecamp.
+
+### Aanmelden voor de salarisadministratie
+Om je wel verdiende buit aan je over te maken hebben we extra gegevens van je nodig. Je ontvangt per mail een uitnodiging om een formulier in te vullen waarmee we in één keer alles hebben voor de salarisadministratie. Heb je de mail nog niet gehad, klop dan even bij Stephan aan.
+
+### Aan de slag
+Hierna moedigen we je aan om in het diepe te springen. Overleg met je directe collega’s of je buddy wat je eerste echte taken worden. In de meeste gevallen zal dit aan het begin van je 2e dag zijn.
+
 ### Jezelf introduceren
-Zodra je je plekje hebt gevonden hebben we de eerste opdracht voor je: introduceer jezelf bij de Picqer gebruikers middels een blogpost.
+Na 1-2 weken is het meestal een mooi moment om jezelf te introduceren aan onze gebruikers. Daarvoor kan je een blogpost schrijven voor op onze blog. Doe dit in overleg met marketing.
 
 Zie je voorgangers voor inspiratie:
 
 - Wouter https://picqer.com/nl/blog/introductie-desiree
 - Kasper https://picqer.com/nl/blog/introductie-kasper
 - Anna https://picqer.com/nl/blog/introductie-anna
-
-### Leer je collega's kennen
-Een leuke werkplek hangt samen met een leuk team. Om iedereen te leren kennen kan je met een ieder een speeddate plannen. Zo leer je iedereen met wie je werkt al gelijk iets beter kennen. Een speeddate duurt ongeveer 15 minuten. Ga even apart zitten of loop samen een rondje.
-
-### Aanmelden voor de salarisadministratie
-Om je wel verdiende buit aan je over te maken hebben we extra gegevens van je nodig. Je ontvangt per mail een uitnodiging om een formulier in te vullen waarmee we in één keer alles hebben voor de salarisadministratie. Heb je de mail nog niet gehad, klop dan even bij Stephan aan.
-
-### Aan de slag
-Hierna moedigen we je aan om in het diepe te springen. Overleg met Casper of Stephan wat je eerste echte taken worden. In de meeste gevallen zal dit aan het begin van je 2e dag zijn.
 
 ## Elke dag<a name="elke-dag"></a>
 Als je binnenkomt is het fijn iedereen te begroeten, zolang je ze niet stoort in hun werk.
@@ -113,14 +124,12 @@ De meesten werken ongeveer van 8.30 tot 17.00 uur of van 8.00 tot 16.30 uur. Dat
 Ieder heeft zijn eigen sleutel tot kantoor en je kan daarom zelf bepalen hoe laat je begint en eindigt.
 
 ### Support tijden
-Support is bereikbaar via per e-mail op werkdagen van 9.00 tot 17.00 uur. Iedereen die support doet regelt gezamenlijk dat er tussen die tijden support geleverd wordt.
+Support is bereikbaar via per e-mail. Op werkdagen tussen 9.00 en 17.00 uur beantwoorden we e-mail zo snel mogelijk, in ieder geval binnen 2 uur maar meestal sneller. Team support regelt gezamenlijk dat we tussen die tijden super support leveren.
 
 ### Thuis werken
 Als je een rustige plek hebt waar je thuis kan werken, mag je ook vanuit huis werken. Of bij iemand anders op kantoor.
 
 Als je vanaf een andere plek werkt, laat het de rest van het team weten via de chat. Bijvoorbeeld een dag van te voren, maar bij last-minute beslissingen zodra je het hebt besloten. Het is voor de rest van het team fijn om te weten wat ze van je kunnen verwachten.
-
-Wel verwachten we dat je minstens 1 dag in de week op kantoor bent voor het directe contact met collega’s. Ook verwachten we je aanwezigheid bij de besprekingen hieronder.
 
 ## Besprekingen<a name=“besprekingen”></a>
 We werken zoveel mogelijk asynchroon met geschreven documenten, maar er zijn enkele besprekingen die we face-to-face doen.
@@ -138,11 +147,11 @@ We gebruiken de volgende tools:
 - **Picqer Admin** (https://secure.picqer.com/admin)
 Hierin staan alle klanten en alle leads. Dit wordt daarom veel gebruikt voor support en voor sales. Ook houden we hier suggesties van klanten bij.
 - **Gmail/Google Apps**
-Iedereen krijgt een @picqer.com e-mailadres. Dit zit gekoppeld aan Gmail en aan Google Apps. Via daar kan je agenda’s gebruiken en documenten delen (zoals de agenda van de maandag bespreking).
+Iedereen krijgt een @picqer.com e-mailadres. Dit zit gekoppeld aan Gmail en aan Google Apps.
 - **Front** (https://app.frontapp.com/)
 Hierin komen alle e-mails die naar info@picqer.com (Nederlands) en hello@picqer.com (Engels) worden gestuurd. Probeer alle communicatie met klanten via deze adressen te doen in plaats van via je persoonlijke e-mailadres, dan is het makkelijker terug te vinden en zijn klanten gewend om naar iedereen te mailen in plaats van naar jou persoonlijk.
 - **Basecamp** (https://3.basecamp.com/3093964/)
-Op Basecamp staan veel algemene documenten om samen aan te werken, zoals OKR’s en sales en marketing documenten. Ook kan je elke week op Basecamp vermelden waar je deze week aan gewerkt hebt, zodat iedereen mee krijgt wat er in heel Picqer voor een werk verzet wordt.
+Op Basecamp staan veel algemene documenten om samen aan te werken. Ook kan je elke week op Basecamp vermelden waar je deze week aan gewerkt hebt, zodat iedereen mee krijgt wat er in heel Picqer voor een werk verzet wordt.
 - **Slack** (https://picqer.slack.com)
 Dit is de chat app waarin het hele team online is als we aan het werk zijn. Zo kunnen we makkelijk vragen stellen zonder de ander direct te storen in het werk.
 - **GitHub** (https://github.com/picqer)
@@ -231,6 +240,9 @@ Overige mijlpalen:
 - 2015: Verhuizen het kantoor naar de Meander 251 in Arnhem
 - 2016: Bram, Roald en Wouter bij het team gekomen
 - 2016: Eerste Picqer Meet & Grill
+- 2017: Publicatie eerste versie van dit handboek
+- 2018: Désirée en Marco komen bij het team
+- 2019: Start van meetups in de vorm van Picqer Sessions
 - 2019: Johan, Kasper, Anna, Ramon en Bob bij het team gekomen
 - 2019: Picqer wint FD Gazellen als #1 van Gelderland en #40 van Nederland
 - 2020: Bram F, Kim en Erik bij het team gekomen. Door het coronavirus werken we sinds begin maart allemaal thuis.
