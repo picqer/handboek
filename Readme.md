@@ -10,7 +10,6 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Principes](#principes)
 - [Je eerste dag](#eerste-dag)
 - [Elke dag](#elke-dag)
-- [Werktijden](#werktijden)
 - [1 op 1's](#een-op-een)
 - [Tools](#tools)
 - [Lunch & Koffie](#lunch)
@@ -20,6 +19,8 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Geschiedenis](#geschiedenis)
 
 ### Overige onderdelen
+- [Hoe we werken](Hoe-we-werken.md)
+- [Werkplek en werktijden](Werkplek-werktijden.md)
 - [Salaris en zo](Salaris-en-zo.md)
 - [Interne informatie index](https://3.basecamp.com/3093964/buckets/1781603/documents/2519103430) (enkel intern)
 
@@ -83,7 +84,7 @@ We zullen je de eerste dag vooral laten wennen. Zorgen dat je bekend bent met de
 Voor vragen kan je natuurlijk bij iedereen terecht, maar je krijgt ook een 'buddy' die zorgt dat je niet verdrinkt. En we hebben checklist om je eerste dag wat structuur te geven.
 
 ### Je werkplek en de tools
-Als je aankomt staat de basis van je werkplek al klaar, zoals je laptop, bureau en stoel. Je ontvangt van ons toegang tot onze [belangrijkste tools](#tools).
+Als je aankomt staat de basis van je [werkplek](Werkplek-werktijden.md) al klaar, zoals je laptop, bureau en stoel. Je ontvangt van ons toegang tot onze [belangrijkste tools](#tools).
 
 Zorg dat je voor elke tool een ander wachtwoord gebruikt. Beheer je wachtwoorden met 1Password. Voor Google Apps en de Picqer Admin ontvang je van ons een wachtwoord. Voor de andere tools krijg je een uitnodiging om je eigen account aan te maken.
 
@@ -116,25 +117,9 @@ Aan het einde van elke dag krijg je een mail met de vraag wat je gedaan hebt. Di
 ## Elke week of maand
 Neem regelmatig een kijkje bij een klant. Door bij een klant te kijken hoe ze werken en hoe ze Picqer gebruiken krijg je meer feeling voor wat klanten belangrijk vinden. Ook vinden klanten het altijd leuk als er iemand van Picqer op bezoek komt. Maak wel van te voren een afspraak met de klant voor een geschikt moment.
 
-## Werktijden<a name=“werktijden”></a>
-We hebben geen vaste werktijden, maar als je een contract hebt voor 40 uur over 5 dagen, dan verwachten we dat je de uren ongeveer gelijk over 5 dagen verdeelt. Dus geen 40 uur in 4 dagen, omdat niemand na 8-9 uur werken nog fris is.
-
-De meesten werken ongeveer van 8.30 tot 17.00 uur of van 8.00 tot 16.30 uur. Dat is 8 uur met een half uur pauze.
-
-Ieder heeft zijn eigen sleutel tot kantoor en je kan daarom zelf bepalen hoe laat je begint en eindigt.
-
-### Support tijden
-Support is bereikbaar via per e-mail. Op werkdagen tussen 9.00 en 17.00 uur beantwoorden we e-mail zo snel mogelijk, in ieder geval binnen 2 uur maar meestal sneller. Team support regelt gezamenlijk dat we tussen die tijden super support leveren.
-
-### Thuis werken
-Als je een rustige plek hebt waar je thuis kan werken, mag je ook vanuit huis werken. Of bij iemand anders op kantoor.
-
-Als je vanaf een andere plek werkt, laat het de rest van het team weten via de chat. Bijvoorbeeld een dag van te voren, maar bij last-minute beslissingen zodra je het hebt besloten. Het is voor de rest van het team fijn om te weten wat ze van je kunnen verwachten.
-
-## Besprekingen<a name=“besprekingen”></a>
-We werken zoveel mogelijk asynchroon met geschreven documenten, maar er zijn enkele besprekingen die we face-to-face doen.
-
 ## 1-op-1’s<a name=een-op-een></a>
+We werken zoveel mogelijk asynchroon met geschreven documenten, zie [hoe we werken](Hoe-we-werken.md), maar er is 1 bespreking die we altijd doen: Het 1-op-1 gesprek.
+
 Elke 2 weken heeft iedereen een 1-op-1 gesprek met zijn ‘manager’. De 1-op-1 bespreking is er om te zorgen dat jij zo goed mogelijk je werk kan doen. (In je eerste maanden bij Picqer heb je elke week een 1-op-1 gesprek, om te zorgen dat je je snel thuis voelt.)
 
 Je mag het in dit gesprek over alles hebben, het gesprek is ‘van jou’. Bijvoorbeeld over wat er goed gaat of minder goed gaat in het team, met het product, met support. Of over hoe het bij je thuis gaat. Of je wilt het ‘waarom’ weten van iets. Alles is bespreekbaar.
