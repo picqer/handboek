@@ -32,9 +32,9 @@ We hoeven niet de grootste of de bekendste te zijn, ons doel is om de beste soft
 
 Er zullen altijd edge-cases zijn die we niet 100% ondersteunen. Die trade-off is nodig om te zorgen dat 80% van de markt van simpele en leuke software kan genieten. Voor de 20% edge-cases zijn er voldoende consultants en maatwerk pakketten om hun processen te automatiseren.
 
-'Beste' is de overtreffende trap van 'goed'. Voor onze doelgroep maken we dus software die beter is dan 'goed'. Karakteristieken van “beter dan goede software” zijn: waardevol, begrijpbaar, geen magic, verbergen van technische details, “convention over configuration”. 
+'Beste' is de overtreffende trap van 'goed'. Voor onze doelgroep maken we dus software die beter is dan 'goed'. Karakteristieken van “beter dan goede software” zijn: waardevol, begrijpbaar, geen magie, verbergen van technische details, “convention over configuration”. 
 
-Gebruikers moeten de software vertrouwen. Vertrouwen komt van: weinig bugs (bugvrije software bestaat niet), doen wat je verwacht, gebruiker laten weten als er iets mis gaat, en ‘debuggable’ (dat er te achterhalen is waarom iets mis gaat).
+Gebruikers moeten de software kunnen vertrouwen. Vertrouwen komt van: weinig bugs (bugvrije software bestaat niet), doen wat je verwacht, gebruiker laten weten als er iets mis gaat, en ‘debuggable’ (dat er te achterhalen is waarom iets mis gaat).
 
 Daarnaast is goede software [snel](https://craigmod.com/essays/fast_software/), mooi en robuust.
 
@@ -43,7 +43,9 @@ Daarnaast is goede software [snel](https://craigmod.com/essays/fast_software/), 
 ## Product en support
 Een goed product en goede support zijn de kern van Picqer. Dat is wat onze gebruikers dagelijks ervaren en zijn de motor voor lange termijn groei en voor ons eigen werkgeluk.
 
-Marketing en sales kunnen zorgen dat we meer mensen kunnen bereiken met ons product, maar zijn ondersteunend en katalysatoren. Ze versterken de impact die ons product en support kan hebben.
+Marketing en sales zorgen dat we meer mensen bereiken met ons product, maar zijn ondersteunend en katalysatoren. Ze versterken de impact van product en support.
+
+We zeggen hiermee niet dat marketing en sales niet belangrijk zijn. Maar mocht er in een keuze een conflict zijn tussen wat het beste is voor product/support of marketing/sales, dan moeten we ons realiseren dat product/support belangrijker is op lange termijn.
 
 ## Values<a name="values"></a>
 We hechten waarde aan:
@@ -51,7 +53,7 @@ We hechten waarde aan:
 1. **Simplicity**: Als er 2 oplossingen zijn voor een probleem, kiezen wij voor de "eenvoudigste". In de eerste plaats eenvoudigst voor de gebruiker, klant of collega. Als de uitkomst hetzelfde is, eenvoudigst voor degene die het moet uitvoeren.
 1. **Long term**: We denken na over de lange termijn. Quick wins zijn prima, maar niet als je weet dat we daar later last van hebben. Zo raden we leads soms aan om geen klant bij ons te worden, omdat we weten dat Picqer niet bij ze past en ze na 3 maanden weer weg gaan.
 1. **Results**: Aan het einde van de week gaat het om het resultaat dat je hebt bereikt. Nieuwe functionaliteit die je hebt gelanceerd, een klant die je blij hebt gemaakt, een collega die je hebt geholpen. We vinden het niet belangrijk hoeveel uur je gewerkt hebt en je krijgt ook geen extra punten omdat je zo hard hebt gewerkt.
-1. **Honesty**: We zijn altijd eerlijk. Zowel intern als naar klanten toe. Als je iets stuk hebt gemaakt dan geef je dat toe en zeg je sorry. Als je ziet dat iets beter kan, dan spreek je je daar over uit. Dit betekent niet dat we geen geheimen hebben: we geven bijvoorbeeld nooit informatie over financiën of informatie over klanten ([zie ook kopje privacy](#privcay)). Maar we zijn altijd eerlijk.
+1. **Honesty**: We zijn altijd eerlijk. Zowel intern als naar klanten toe. Als je iets stuk hebt gemaakt dan geef je dat toe en zeg je sorry. Als je ziet dat iets beter kan, dan spreek je je daar over uit. Dit betekent niet dat we geen geheimen hebben: we geven bijvoorbeeld nooit informatie over financiën of informatie over klanten ([zie ook kopje privacy](#privacy)). Maar we zijn altijd eerlijk.
 1. **Details matter**: We geven aandacht aan details, omdat details er toe doen. Als je niet over details nadenkt, weet je ook niet of je de hoofdlijnen wel goed hebt. Ook krijgt iedereen *fuzzy feelings* als details kloppen. En niet alleen in design, maar ook in geschreven tekst, in timing of in benadering van klanten.
 1. **Efficiency**: We krijgen het meeste gedaan als we de *goede* dingen doen en de *belangrijkste* dingen als eerste doen. We doen niet meer dan nodig en proberen dubbel werk te voorkomen. Als iets vaker moet gebeuren proberen we dat te automatiseren. En omdat we niet alles kunnen doen, betekent het dat sommige dingen nooit worden gedaan omdat ze niet belangrijk genoeg zijn en dat is prima.
 1. **Work together**: Vertel wat je doet en waarom. Vertel waar je last van hebt, wanneer je niet verder komt of hulp nodig hebt. Kom met nieuwe ideeën, moedig anderen aan hun ideeën te realiseren. Blijf op de hoogte van wat de rest doet en toon interesse.
@@ -86,7 +88,7 @@ Voor vragen kan je natuurlijk bij iedereen terecht, maar je krijgt ook een 'budd
 ### Je werkplek en de tools
 Als je aankomt staat de basis van je [werkplek](Werkplek-werktijden.md) al klaar, zoals je laptop, bureau en stoel. Je ontvangt van ons toegang tot onze [belangrijkste tools](#tools).
 
-Zorg dat je voor elke tool een ander wachtwoord gebruikt. Beheer je wachtwoorden met 1Password. Voor Google Apps en de Picqer Admin ontvang je van ons een wachtwoord. Voor de andere tools krijg je een uitnodiging om je eigen account aan te maken.
+Zorg dat je voor elke tool een ander wachtwoord gebruikt. Beheer je wachtwoorden met 1Password. Voor Google Apps en de Picqer Admin ontvang je van ons een wachtwoord. Voor de andere tools krijg je een uitnodiging om je eigen account aan te maken. Schakel voor elke tool (die het ondersteund) 2-factor authentication (2FA) in, 1Password heeft ondersteuning voor 2FA om het inloggen makkelijk te houden.
 
 ### Leer je collega's kennen
 Een leuke werkplek hangt samen met een leuk team. Om iedereen te leren kennen kan je met een ieder een speeddate plannen. Zo leer je iedereen met wie je werkt al gelijk iets beter kennen. Een speeddate duurt ongeveer 15 minuten. Ga even apart zitten of loop samen een rondje.
@@ -105,7 +107,7 @@ Na 1-2 weken is het meestal een mooi moment om jezelf te introduceren aan onze g
 
 Zie je voorgangers voor inspiratie:
 
-- Wouter https://picqer.com/nl/blog/introductie-desiree
+- Désirée https://picqer.com/nl/blog/introductie-desiree
 - Kasper https://picqer.com/nl/blog/introductie-kasper
 - Anna https://picqer.com/nl/blog/introductie-anna
 
@@ -136,7 +138,7 @@ Hierin staan alle klanten en alle leads. Dit wordt daarom veel gebruikt voor sup
 - **Gmail/Google Apps**
 Iedereen krijgt een @picqer.com e-mailadres. Dit zit gekoppeld aan Gmail en aan Google Apps.
 - **Front** (https://app.frontapp.com/)
-Hierin komen alle e-mails die naar info@picqer.com (Nederlands) en hello@picqer.com (Engels) worden gestuurd. Probeer alle communicatie met klanten via deze adressen te doen in plaats van via je persoonlijke e-mailadres, dan is het makkelijker terug te vinden en zijn klanten gewend om naar iedereen te mailen in plaats van naar jou persoonlijk.
+Hierin komen alle e-mails die naar info@picqer.com, support@picqer.com en sales@picqer.com worden gestuurd. Probeer alle communicatie met klanten via deze adressen te doen in plaats van via je persoonlijke e-mailadres, dan is het makkelijker terug te vinden en zijn klanten gewend om naar iedereen te mailen in plaats van naar jou persoonlijk.
 - **Basecamp** (https://3.basecamp.com/3093964/)
 Op Basecamp staan veel algemene documenten om samen aan te werken. Ook kan je elke week op Basecamp vermelden waar je deze week aan gewerkt hebt, zodat iedereen mee krijgt wat er in heel Picqer voor een werk verzet wordt.
 - **Slack** (https://picqer.slack.com)
@@ -217,7 +219,7 @@ In 2014 liep Picqer zo goed, dat we ons volledig zijn gaan richten op Picqer. De
 
 In 2015, een jaar na onze focus op Picqer, was Picqer cashflow-positief en was de ergste druk eraf. Vanaf toen zijn we mensen gaan aannemen om met een leuk team Picqer nog verder te laten groeien.
 
-In 2018 werd het tijd voor een serieus kantoor. [Rosanne ontworp](https://picqer.com/nl/blog/we-gaan-verhuizen) voor ons een inrichting die perfect bij ons past: een kantoor waar je rustig kan werken in een lichte en transparante omgeving.
+In 2018 werd het tijd voor een serieus kantoor. [Rosanne ontworp](https://picqer.com/nl/blog/we-gaan-verhuizen) voor ons een inrichting die perfect bij ons past: een kantoor waar je rustig kan werken in een lichte en transparante omgeving. Dat is ons huidige kantoor, op Meander 601.
 
 Overige mijlpalen:
 

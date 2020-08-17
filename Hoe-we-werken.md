@@ -17,17 +17,16 @@ Daarom gelden bij ons in kantoor bij de werkplekken bibliotheekregels. Dat betek
 
 - Stoor elkaar niet
 - Probeer praten te voorkomen, of met zachte stem
-- Geen geluiden, geen muziek, geen telefoon
-- Geen notificatiegeluiden van computer of telefoon
+- Zet notificatiegeluiden van computer en telefoon uit
+- Speel geen geluid of muziek af over je speakers (koptelefoon is natuurlijk oke)
+- Niet bellen, ook niet met een headset
 
 Daarmee kan iedereen op de werkplek zijn of haar flow vinden en een fijne dag hebben.
 
 ### En de gezelligheid dan?
 Gelukkig is het bij ons ook gezelllig, maar op een plek waar we werkende collega's niet storen. Zoals in de keuken (de centrale plek om wat te drinken, te eten of zomaar wat te kletsen), op samenwerkplekken of buiten.
 
-We vragen elkaar op de werkplek zelfs niet of er iemand koffie wilt. Je weet nooit of iemand in een flow zit en door jouw super aardige vraag de concentratie verliest.
-
-Wel gebeurt het regelmatig dat iemand naar de keuken loopt om wat te drinken en wordt gevolgd door anderen.
+Maar we vragen op de werkplek niet of er iemand koffie wilt. Je weet nooit of iemand in een flow zit en door jouw super aardige vraag de concentratie verliest. In plaats daarvan gebeurd het regelmatig dat iemand naar de keuken loopt om wat te drinken en wordt gevolgd door anderen.
 
 ## A-synchroon communiceren
 We communiceren intern zoveel mogelijk a-synchroon via geschreven tekst. Bijvoorbeeld via ons intranet Basecamp.
@@ -40,7 +39,7 @@ In plaats van een synchrone bespreking heeft het de volgende voordelen:
 
 - Je kan de discussie volgen en op reageren als het jou uitkomt, je hoeft niet precies in de bespreking je mening klaar te hebben
 - Meer mensen kunnen potentieel meedenken, zonder dat elke discussie in een vergadering met 15 mensen wordt besproken
-- Door het opschrijven vorm je al een beter verhaal dan wanneer je jouw verhaal in een vergadering mondeling toelicht
+- Door het opschrijven vorm je een beter verhaal dan wanneer je jouw verhaal in een vergadering mondeling toelicht
 - Je krijgt gratis notulen van elke beslissing
 
 ### Bellen is sneller?
@@ -69,9 +68,9 @@ Daarnaast proberen we geen standaard besprekingen te hebben, dus geen wekelijkse
 
 Bij een brainstorm is het fijn om bij elkaar te komen. Soms is een gesprek al een tijd a-synchroon aan de gang en wil je er gezamenlijk nog eens doorheen. Dat is helemaal prima om als bespreking te houden. Besprekingen en vergaderingen zijn niet verboden, ze moeten alleen niet de standaard uitweg worden.
 
-Besprekingen 1 op 1 zijn altijd prima. Probeer elkaar niet te storen, dus voor simpele vragen ga je elkaar niet bellen. Maar met 2 mensen iets overleggen, brainstormen of samenwerken is altijd prima.
+Besprekingen 1 op 1 zijn altijd prima. Probeer elkaar niet te storen, dus voor simpele vragen bel je elkaar niet. Maar met 2 mensen iets overleggen, brainstormen of samenwerken is altijd prima.
 
-Een bespreking kan in het echt zijn, maar kan ook net zo goed via videochat. Hiervoor gebruiken we meestal Zoom.
+Een bespreking kan in het echt zijn, maar kan net zo goed via videochat. Hiervoor gebruiken we meestal Zoom.
 
 Als er een bespreking is ingepland mogen we nooit afspreken dat we die op kantoor doen. Het kantoor is een optionele werkplek. Als iedereen fysiek op dezelfde plek is kan het een reguliere bespreking zijn. Is minstens 1 iemand ergens anders, dan wordt het een videocall.
 
@@ -83,7 +82,7 @@ Heb je echt een bespreking met meer dan 2 mensen, denk dan aan de volgende punte
 - Hoe minder deelnemers hoe meer beter – wie is echt noodzakelijk?
 
 ## Over-communiceer
-Je kan beter te veel communiceren dan te weinig. En meestal communiceer je te weinig. Schrijf je overwegingen en keuzes op, deel het zo breed mogelijk. (Er is weinig dat geheim moet blijven.) Kies wel notificaties zorgvuldig.
+Je kan beter te veel communiceren dan te weinig. En meestal communiceer je te weinig. Schrijf je overwegingen en keuzes op, deel het zo breed mogelijk. (Er is weinig dat geheim moet blijven.)
 
 ### Heartbeats
 Het is fijn als je regelmatig *heartbeats* geeft, kleine updates zodat iedereen weet wat de status is. Ook als je niets bent opgeschoten ten opzichte van je vorige update.
@@ -94,7 +93,7 @@ Als je aan **een project** werkt is het handig regelmatig een update te geven ov
 
 **Individueel** krijg je elke dag de vraag [waar heb je vandaag aan gewerkt?](https://3.basecamp.com/3093964/buckets/1781603/questions/1684495112) Dat is een mooi moment om voor jezelf de dag te evalueren en een heartbeat te geven aan de rest van het team.
 
-Al deze heartbeats zijn er niet om te controleren of je wel hard genoeg werkt, maar zodat we onderling weten wat er speelt en 
+Al deze heartbeats zijn er niet om te controleren of je wel hard genoeg werkt, maar zodat we onderling weten wat er speelt en dragen bij aan het teamgevoel.
 
 ### Aankondigingen
 Heb je iets wat iedereen moet weten? Dan kan je daarvoor een aankondiging schrijven. Bijvoorbeeld aan het eind van een development project om te laten zien wat er nieuw is. Maar het kan ook gaan over een nieuwe partnership die je hebt gesloten of over dat je een wereldreis gaat maken.
