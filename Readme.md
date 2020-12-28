@@ -234,7 +234,7 @@ Overige mijlpalen:
 - 2019: Start van meetups in de vorm van Picqer Sessions
 - 2019: Johan, Kasper, Anna, Ramon en Bob bij het team gekomen
 - 2019: Picqer wint FD Gazellen als #1 van Gelderland en #40 van Nederland
-- 2020: Bram F, Kim en Erik bij het team gekomen. Door het coronavirus werken we sinds begin maart allemaal thuis.
+- 2020: Kim, Erik, Kay en Lisa bij het team gekomen. Door het coronavirus werken we sinds begin maart allemaal thuis.
 
 ## Inspiratie handboeken
 Dit zijn andere gave handboeken waar we inspiratie uit gehaald hebben:
