@@ -37,3 +37,6 @@ BrightPensioen geeft je de mogelijkheid om online je eigen pensioenrekening te o
 Daarnaast geeft BrightPensioen je informatie over het opbouwen van pensioen. Ze hebben tools om te berekenen wat de hoogte van je pensioen kan zijn bij een bepaalde inleg en hoeveel je fiscaal voordelig in 1 jaar kan inleggen.
 
 De kosten van het lidmaatschap bij BrightPensioen vergoeden wij zolang je bij ons werkt. Wanneer je aan de slag wilt met BrightPensioen kan Stephan je aanmelden. Het staat je vrij om op een andere manier of bij een andere partij je pensioen op te bouwen. Wij vergoeden in dat geval jaarlijks 80% van de lidmaatschapskosten van BrightPensioen.
+
+### Declaraties
+Declaraties kan je indienen via het [salarisportaal van Employes](https://app.employes.nl). Na goedkeuring wordt deze bij je eerstvolgende salaris uitgekeerd.
