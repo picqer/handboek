@@ -67,7 +67,7 @@ We hechten waarde aan:
 - Als je met relatief weinig tijd een belangrijk pijnpunt kan oplossen, ben je vrij om dat te doen.
 - Je krijgt geen punten voor complexiteit. Zowel code als gewone tekst wordt vaker gelezen dan geschreven, en processen worden vaker uitgevoerd dan bedacht. Daarom is het belangrijk om de tijd te nemen bij het schrijven van code, tekst of processen, als het lezen en uitvoeren ervan eenvoudiger wordt.
 - Laat het weten als je tegen problemen aanloopt, vraag om hulp, wees open over je eigen fouten en spreek anderen aan op hun fouten.
-- We verwijten elkaar niets en doen niet aan zwartepieten. Wel leren we van onze eigen fouten en die van anderen, anders is het zonde dat we die fout gemaakt hebben.
+- We verwijten elkaar niets. Wel leren we van onze eigen fouten en die van anderen, anders is het zonde dat we die fout gemaakt hebben.
 - Als we realiseren dat we een fout gemaakt hebben, herstellen we die en laten we betrokken partijen proactief weten wat er mis is gegaan en hoe we dat hebben opgelost.
 - We beloven externe partijen (klanten/partners) nooit nieuwe features of wanneer nieuwe features komen.
 - Je hoeft het niet te accepteren als iemand je slecht behandeld, ook niet als dat een klant of een belangrijke leverancier is.
