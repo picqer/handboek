@@ -174,7 +174,7 @@ Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vri
 ### Verlof en vrije dagen registreren
 We registeren verlof via Verlof App op https://app.rework.nl. Je krijgt daarop je eigen account om je vrije dagen en verlof te registreren. (De app noemt het "aanvragen", maar je mag je eigen verlof goedkeuren.) Daar vind je ook het overzicht van je beschikbare en gebruikte uren.
 
-Wanneer je een vrije dag of vakantie neemt bepaal je zelf. Je hoeft daarvoor geen goedkeuring te vragen. Voor een enkele vrije dag hoef niet met je team te overleggen, voor een week of meer is het wel fijn als je met je team overlegd of vakanties niet te veel overlappen. In het support team is de bezetting en capaciteit wel belangrijk, daar is overleg voor een enkele vrije dag wel gewenst.
+Wanneer je een vrije dag of vakantie neemt bepaal je zelf. Je hoeft daarvoor geen goedkeuring te vragen. Voor een enkele vrije dag hoef je niet met je team te overleggen, voor een week of meer is het wel fijn als je met je team overlegd of vakanties niet te veel overlappen. In het support team is de bezetting en capaciteit wel belangrijk, daar is overleg voor een enkele vrije dag wel gewenst.
 
 In de app zie je ook ingepland verlof van de rest van het team. Zo kan je al kijken of gewenste verlof overlapt met de rest van het team.
 
