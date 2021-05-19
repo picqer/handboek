@@ -171,16 +171,22 @@ Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vri
 - Tweede pinksterdag
 - Eerste en tweede kerstdag (25 en 26 december)
 
-### Dokter- of tandartsbezoek
-Moet je naar de dokter of tandarts? Probeer dit buiten werktijd te plannen. Lukt dat niet, plan het dan zo vroeg of zo laat mogelijk op de dag. De tijd die je toch tijdens werktijd nodig hebt wordt doorbetaald. Registreer deze tijd via [Verlof App](https://app.rework.nl), onder de categorie "Dokter, tandarts".
+### Verlof en vrije dagen registreren
+We registeren verlof via Verlof App op https://app.rework.nl. Je krijgt daarop je eigen account om je vrije dagen en verlof te registreren. (De app noemt het "aanvragen", maar je mag je eigen verlof goedkeuren.) Daar vind je ook het overzicht van je beschikbare en gebruikte uren.
 
-### Verlof aanvragen
-We registeren alle verlof via Verlof App op https://app.rework.nl. Je krijgt van ons een account om daar je vrije dagen aan te vragen. Daar vind je een overzicht van je beschikbare en gebruikte uren. Ook zie je daar de ingeplande uren van de rest van het team. Zo kan je kijken of de geplande periode niet teveel overlapt met de rest van het team.
+Wanneer je een vrije dag of vakantie neemt bepaal je zelf. Je hoeft daarvoor geen goedkeuring te vragen. Voor een enkele vrije dag hoef je niet met je team te overleggen, voor een week of meer is het wel fijn als je met je team overlegd of vakanties niet te veel overlappen. In de support en sales teams is de bezetting en capaciteit wel belangrijk, daar is overleg voor een enkele vrije dag wel gewenst.
+
+In de app zie je ook ingepland verlof van de rest van het team. Zo kan je al kijken of gewenste verlof overlapt met de rest van het team.
+
+De registratie in de Verlof App is vooral voor het totale aantal vakantiedagen. Je hoeft niet elke week precies het aantal uur van je contract te maken. We verwachten dat je zelf in de gaten houdt dat je gemiddeld die uren werkt, de ene week zal dat iets meer zijn dan de andere. Als je bijvoorbeeld een dag 2 uur minder werkt en die tijd in dezelfde week op een andere manier maakt, hoef je dat niet te registreren.
+
+### Dokter- of tandartsbezoek
+Moet je naar de dokter of tandarts? Probeer dit buiten werktijd te plannen. Lukt dat niet, plan het dan zo vroeg of zo laat mogelijk op de dag. De tijd die je toch tijdens werktijd nodig hebt geldt niet als vrij en wordt doorbetaald. Registreer deze tijd via [Verlof App](https://app.rework.nl), onder de categorie "Dokter, tandarts".
 
 ### Ziekte
 Ziek zijn is erg vervelend. Maar ziek is ziek, en het is belangrijk dat je goed beter wordt voordat je weer aan het werk gaat.
 
-Als je ziek bent laat je dat zo vroeg mogelijk weten aan Stephan of Casper, uiterlijk voor 9.00 uur. Je bent niet verplicht te vertellen ‘wat’ je hebt. Probeer wel aan te geven hoe lang je denkt dat het gaat duren.
+Als je ziek bent laat je dat zo vroeg mogelijk weten aan Stephan of Casper. Je bent niet verplicht te vertellen ‘wat’ je hebt. Probeer wel aan te geven hoe lang je denkt dat het gaat duren.
 
 Duurt je ziekte langer dan 1 dag, laat Stephan of Casper dan elke 1 of 2 dagen weten wat de stand van zaken is. We horen het ook graag als je weet wanneer je weer komt.
 
