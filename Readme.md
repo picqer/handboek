@@ -5,8 +5,8 @@ Dit is een levend document, net zoals alles eigenlijk bij Picqer. Als we nieuwe 
 
 Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op alles binnen Picqer.
 
-- [Doel](#doel)
-- [Values](#values)
+- [Missie en visie](#missie-en-visie)
+- [Kernwaarden](#kernwaarden)
 - [Principes](#principes)
 - [Je eerste dag](#eerste-dag)
 - [Elke dag](#elke-dag)
@@ -24,59 +24,42 @@ Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op al
 - [Salaris en zo](Salaris-en-zo.md)
 - [Interne informatie index](https://3.basecamp.com/3093964/buckets/1781603/documents/2519103430) (enkel intern)
 
-## Doel<a name="doel"></a> <a name="missie"></a>
-Ons doel is:
-> De beste software voor webwinkel magazijnen
+## Missie en visie
 
-We hoeven niet de grootste of de bekendste te zijn, ons doel is om de beste software voor webwinkel magazijnen te maken. Picqer is er voor de meeste webwinkels, maar dat betekent ook dat we niet voor iedereen zijn. Om te zorgen dat 80% van de markt snel en makkelijk met Picqer kan werken, moeten we zo weinig mogelijk uitzonderingen ondersteunen.
+### Missie
+Het is onze missie te zorgen dat alle webwinkels en fulfilment bedrijven eenvoudig hun eigen magazijn efficiënt, effectief en professioneel kunnen runnen.
 
-Er zullen altijd edge-cases zijn die we niet 100% ondersteunen. Die trade-off is nodig om te zorgen dat 80% van de markt van simpele en leuke software kan genieten. Voor de 20% edge-cases zijn er voldoende consultants en maatwerk pakketten om hun processen te automatiseren.
+### Visie
+Picqer maakt geweldige software waarmee webwinkels en fulfilment bedrijven hun magazijn professioneel kunnen draaien. Onze software is een plezier om te gebruiken en kan snel en zelfstandig worden ingericht, ongeacht de grootte of logistieke kennis van het magazijn.
 
-'Beste' is de overtreffende trap van 'goed'. Voor onze doelgroep maken we dus software die beter is dan 'goed'. Karakteristieken van “beter dan goede software” zijn: waardevol, begrijpbaar, geen magie, verbergen van technische details, “convention over configuration”. 
+## Kernwaarden
+Bekijk ook de uitgebreide [uitleg van onze kernwaarden](Kernwaarden.md).
 
-Gebruikers moeten de software kunnen vertrouwen. Vertrouwen komt van: weinig bugs (bugvrije software bestaat niet), doen wat je verwacht, gebruiker laten weten als er iets mis gaat, en ‘debuggable’ (dat er te achterhalen is waarom iets mis gaat).
+- 🙏 Calm company
+- 🏋️ Keep improving
+- ⚛️ Keep it simple
+- ❤️ Be human & do the right thing
 
-Daarnaast is goede software [snel](https://craigmod.com/essays/fast_software/), mooi en robuust.
-
-[Meer info in onze manifesto](https://3.basecamp.com/3093964/buckets/1781603/documents/2200430377) (enkel intern)
-
-## Product en support
-Een goed product en goede support zijn de kern van Picqer. Dat is wat onze gebruikers dagelijks ervaren en zijn de motor voor lange termijn groei en voor ons eigen werkgeluk.
-
-Marketing en sales zorgen dat we meer mensen bereiken met ons product, maar zijn ondersteunend en katalysatoren. Ze versterken de impact van product en support.
-
-We zeggen hiermee niet dat marketing en sales niet belangrijk zijn. Maar mocht er in een keuze een conflict zijn tussen wat het beste is voor product/support of marketing/sales, dan moeten we ons realiseren dat product/support belangrijker is op lange termijn.
-
-## Values<a name="values"></a>
-We hechten waarde aan:
-
-1. **Simplicity**: Als er 2 oplossingen zijn voor een probleem, kiezen wij voor de "eenvoudigste". In de eerste plaats eenvoudigst voor de gebruiker, klant of collega. Als de uitkomst hetzelfde is, eenvoudigst voor degene die het moet uitvoeren.
-1. **Long term**: We denken na over de lange termijn. Quick wins zijn prima, maar niet als je weet dat we daar later last van hebben. Zo raden we leads soms aan om geen klant bij ons te worden, omdat we weten dat Picqer niet bij ze past en ze na 3 maanden weer weg gaan.
-1. **Results**: Aan het einde van de week gaat het om het resultaat dat je hebt bereikt. Nieuwe functionaliteit die je hebt gelanceerd, een klant die je blij hebt gemaakt, een collega die je hebt geholpen. We vinden het niet belangrijk hoeveel uur je gewerkt hebt en je krijgt ook geen extra punten omdat je zo hard hebt gewerkt.
-1. **Honesty**: We zijn altijd eerlijk. Zowel intern als naar klanten toe. Als je iets stuk hebt gemaakt dan geef je dat toe en zeg je sorry. Als je ziet dat iets beter kan, dan spreek je je daar over uit. Dit betekent niet dat we geen geheimen hebben: we geven bijvoorbeeld nooit informatie over financiën of informatie over klanten ([zie ook kopje privacy](#privacy)). Maar we zijn altijd eerlijk.
-1. **Details matter**: We geven aandacht aan details, omdat details er toe doen. Als je niet over details nadenkt, weet je ook niet of je de hoofdlijnen wel goed hebt. Ook krijgt iedereen *fuzzy feelings* als details kloppen. En niet alleen in design, maar ook in geschreven tekst, in timing of in benadering van klanten.
-1. **Efficiency**: We krijgen het meeste gedaan als we de *goede* dingen doen en de *belangrijkste* dingen als eerste doen. We doen niet meer dan nodig en proberen dubbel werk te voorkomen. Als iets vaker moet gebeuren proberen we dat te automatiseren. En omdat we niet alles kunnen doen, betekent het dat sommige dingen nooit worden gedaan omdat ze niet belangrijk genoeg zijn en dat is prima.
-1. **Work together**: Vertel wat je doet en waarom. Vertel waar je last van hebt, wanneer je niet verder komt of hulp nodig hebt. Kom met nieuwe ideeën, moedig anderen aan hun ideeën te realiseren. Blijf op de hoogte van wat de rest doet en toon interesse.
-
-## Principes<a name="principes"></a> <a name="richtlijnen"></a>
+## Principes
 - Doe wat het beste is voor onze klanten, de klanten van onze klanten, voor collega's en voor partners (en in deze volgorde). Doe wat het beste is voor de lange termijn.
 - Belangrijke dingen schrijven we op. Geschreven tekst heeft veel voordelen over gesproken woord: lezen is sneller, doorzoekbaar, consistenter en schaalbaarder.
+
+**Blijven verbeteren**
 - *Perfection is the enemy of done.* We kunnen altijd alles nog verbeteren. Wacht daarom niet te lang met iets te lanceren of te delen. En niet alleen met software, maar ook met kleine documenten. Het gaat om vooruitgang, push wat je hebt en ga er later op verder. Zo ook dit handboek.
-- Sta open voor suggesties van anderen en geef anderen suggesties. Tenslotte kunnen we alles nog verbeteren en kunnen we over alles praten. 
 - "Elke dag een beetje beter" zeggen ze bij Coolblue. Het is beter om in kleine stapjes beter te worden en elke dag te verbeteren, dan maanden werken aan iets wat je in 1 grote klap lanceert. Dat proberen we bij Picqer ook.
-- Als je met relatief weinig tijd een belangrijk pijnpunt kan oplossen, ben je vrij om dat te doen.
-- Je krijgt geen punten voor complexiteit. Zowel code als gewone tekst wordt vaker gelezen dan geschreven, en processen worden vaker uitgevoerd dan bedacht. Daarom is het belangrijk om de tijd te nemen bij het schrijven van code, tekst of processen, als het lezen en uitvoeren ervan eenvoudiger wordt.
-- Laat het weten als je tegen problemen aanloopt, vraag om hulp, wees open over je eigen fouten en spreek anderen aan op hun fouten.
+
+**Feedback**
+- Sta open voor suggesties van anderen en geef anderen suggesties. Tenslotte kunnen we alles nog verbeteren en kunnen we over alles praten.
 - We verwijten elkaar niets. Wel leren we van onze eigen fouten en die van anderen, anders is het zonde dat we die fout gemaakt hebben.
-- Als we realiseren dat we een fout gemaakt hebben, herstellen we die en laten we betrokken partijen proactief weten wat er mis is gegaan en hoe we dat hebben opgelost.
-- We beloven externe partijen (klanten/partners) nooit nieuwe features of wanneer nieuwe features komen.
-- Je hoeft het niet te accepteren als iemand je slecht behandeld, ook niet als dat een klant of een belangrijke leverancier is.
-- Wees erop bedacht dat niet iedereen het beste met je voor heeft. Zo zijn er mensen die zich voordoen als iemand anders of proberen fysieke of digitale goederen te stelen. Bij twijfel direct ingrijpen en Casper of Stephan om hulp vragen. Het is beter als we ons achteraf verontschuldigen als het onterecht blijkt, dan dat ze er mee wegkomen.
-- Als je ergens ontevreden over bent, laat het Stephan of Casper zo snel mogelijk weten. Het mag over alles gaan: je werk, je collega's, je baas, je salaris, je werkplek, etc. Het is niet normaal als je op je werk regelmatig ergernissen hebt.
-- We doen niet aan micromanagen en zullen je zo veel mogelijk vrijlaten in wat je doet en hoe je dat doet. Dat betekent wel dat je verantwoordelijkheid neemt voor wat je doet en initiatief toont.
 - Discussies zijn belangrijk om soms tot de kern te komen en de details precies goed te krijgen. Maar wees altijd respectvol, eerlijk en sta open voor andere inzichten. Doe moeite om elkaar te begrijpen.
+
+**Honest & be human**
+- We beloven externe partijen (klanten/partners) nooit nieuwe features of wanneer nieuwe features komen.
+- Als we realiseren dat we een fout gemaakt hebben, herstellen we die en laten we betrokken partijen proactief weten wat er mis is gegaan en hoe we dat hebben opgelost.
 - Maak geen grappen over geslacht, ras, afkomst, huidskleur of geaardheid.
 - Gebruik 'inclusieve' taal waarbij je niet (onbewust) groepen uitsluit: 'Hoi iedereen' of 'Hallo allemaal' in plaats van 'Hey jongens'. Dit geldt ook voor grappige opmerkingen zoals: 'doe niet zo pussy' of 'jij hebt ook geen ballen', wat lijkt te suggereren dat mannen stoerder zijn dan vrouwen.
+- Je hoeft het niet te accepteren als iemand je slecht behandeld, ook niet als dat een klant of een belangrijke leverancier is.
+- Wees erop bedacht dat niet iedereen het beste met je voor heeft. Zo zijn er mensen die zich voordoen als iemand anders of proberen fysieke of digitale goederen te stelen. Bij twijfel direct ingrijpen. Het is beter als we ons achteraf verontschuldigen als het onterecht blijkt, dan dat ze er mee wegkomen.
 
 ## Je eerste dag<a name="eerste-dag"></a>
 Leuk dat je bij Picqer begint! Deze stappen helpen je om snel aan de slag te gaan.
@@ -130,22 +113,6 @@ Ook krijg je in dit gesprek feedback over wat je goed doet en wat er beter kan. 
 
 Dit gesprek duurt meestal 30 tot 60 minuten.
 
-## Tools<a name="tools"></a>
-We gebruiken de volgende tools:
-
-- **Picqer Admin** (https://secure.picqer.com/admin)
-Hierin staan alle klanten en alle leads. Dit wordt daarom veel gebruikt voor support en voor sales. Ook houden we hier suggesties van klanten bij.
-- **Gmail/Google Apps**
-Iedereen krijgt een @picqer.com e-mailadres. Dit zit gekoppeld aan Gmail en aan Google Apps.
-- **Front** (https://app.frontapp.com/)
-Hierin komen alle e-mails die naar info@picqer.com, support@picqer.com en sales@picqer.com worden gestuurd. Probeer alle communicatie met klanten via deze adressen te doen in plaats van via je persoonlijke e-mailadres, dan is het makkelijker terug te vinden en zijn klanten gewend om naar iedereen te mailen in plaats van naar jou persoonlijk.
-- **Basecamp** (https://3.basecamp.com/3093964/)
-Op Basecamp staan veel algemene documenten om samen aan te werken. Ook kan je elke week op Basecamp vermelden waar je deze week aan gewerkt hebt, zodat iedereen mee krijgt wat er in heel Picqer voor een werk verzet wordt.
-- **Slack** (https://picqer.slack.com)
-Dit is de chat app waarin het hele team online is als we aan het werk zijn. Zo kunnen we makkelijk vragen stellen zonder de ander direct te storen in het werk.
-- **GitHub** (https://github.com/picqer)
-Op Github wordt onze broncode bijgehouden en wordt gepland welke technische wijzigingen we in Picqer gaan doen.
-
 ## Lunch & Koffie<a name="lunch"></a>
 Elke dag om 12:30 uur nemen we de tijd voor een gezamenlijke lunch. Een mooi moment om even te socializen. De lunch wordt door ons verzorgd, zodat je altijd kan genieten van vers brood en beleg.
 
@@ -156,7 +123,7 @@ Suggesties voor boodschappen kan je doorgeven aan Stephan.
 ## Vakantie en verlof<a name="verlof"></a>
 Goede prestaties hangen samen met goed ontspannen. We hechten er veel waarde aan dat je regelmatig vakantie neemt en geniet van momenten met vrienden en familie. Daarom is het de bedoeling dat je vakantieuren opneemt in het jaar dat je ze hebt verdient. 
 
-Vakantieuren kan je niet meenemen naar het volgende kalenderjaar.
+Vakantieuren kan je niet meenemen naar het volgende kalenderjaar, dit om je te motiveren continu je vakantie te gebruiken voor je rust.
 
 Indien je meer vakantie nodig hebt dan je nog tegoed hebt kan je in overleg onbetaald verlof krijgen.
 
@@ -196,7 +163,7 @@ We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je 
 We vinden het leuk dat je naast je werk een activiteit hebt om energie in te steken of van te krijgen. Vraag voordat je aan nevenactiviteiten begint toestemming bij Stephan. 
 
 Er zijn een paar richtlijnen om op te letten bij nevenactiviteiten:
-- Let er op dat er geen belangenverstrengeling is. Dit kan het geval zijn wanneer je activiteiten uitvoert die gerelateerd zijn aan je werk bij Picqer of aan Picqer als bedrijf. 
+- Er is geen belangenverstrengeling. Dit kan het geval zijn wanneer je activiteiten uitvoert die gerelateerd zijn aan je werk bij Picqer of aan Picqer als bedrijf. 
 - Sommige informatie die je via Picqer kent is vertrouwelijk. Vanzelfsprekend mag je deze informatie niet gebruiken bij je nevenactiviteiten.
 - Zorg dat je voor je werk bij Picqer altijd voldoende energie hebt en genoeg rust houdt. We geven daar veel aandacht aan tijdens je werk bij Picqer, bij je nevenactiviteiten moet je hier zelf goed op letten.
 
