@@ -1,6 +1,8 @@
 # Picqer Handboek
 Met het Picqer Handboek hebben we in 1 geschreven document staan hoe we intern bij Picqer werken. Makkelijk voor als je net aansluit bij ons team, maar ook een handig naslagwerk.
 
+Dit is niet meer ons primaire handboek, waar inmiddels ook veel interne processen in beschreven zijn. Elke paar maanden updaten we dit document met de laatste versie van de algemene onderwerpen.
+
 Dit is een levend document, net zoals alles eigenlijk bij Picqer. Als we nieuwe dingen leren die nog niet in dit document staan dan vullen we het aan. Ook kunnen elementen achterhaalt blijken en dan schrappen we ze.
 
 Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op alles binnen Picqer.
