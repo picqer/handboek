@@ -1,10 +1,10 @@
 # Kernwaarden
 
 Onze kernwaarden:
-- [Calm company](#calm-company)
-- [Keep improving](#keep-improving)
-- [Keep it simple](#keep-it-simple)
-- [Be human & do the right thing](#be-human-do-the-right-thing)
+- [Calm company](#-calm-company)
+- [Keep improving](#-keep-improving)
+- [Keep it simple](#-keep-it-simple)
+- [Be human & do the right thing](#-be-human--do-the-right-thing)
 
 ## 🙏 Calm company
 We geloven dat we in kalme omgeving ons beste werk kunnen doen. We zijn er voor de lange termijn: hopelijk bestaan we over 50 jaar nog. Dat is makkelijker als we kalm en autonoom werken. Met een goede balans tussen werk en privé, tussen problemen oplossen en vooruit kijken, tussen creatieve sessies en doen wat er gedaan moet worden.
