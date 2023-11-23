@@ -3,7 +3,7 @@ Met het Picqer Handboek hebben we in 1 geschreven document staan hoe we intern b
 
 Dit is niet meer ons primaire handboek, waar inmiddels ook veel interne processen in beschreven zijn. Elke paar maanden updaten we dit document met de laatste versie van de algemene onderwerpen.
 
-Dit is een levend document, net zoals alles eigenlijk bij Picqer. Als we nieuwe dingen leren die nog niet in dit document staan dan vullen we het aan. Ook kunnen elementen achterhaalt blijken en dan schrappen we ze.
+Dit is een levend document, net zoals alles eigenlijk bij Picqer. Als we nieuwe dingen leren die nog niet in dit document staan dan vullen we het aan. Ook kunnen elementen achterhaald blijken en dan schrappen we ze.
 
 Aanvullingen voor dit handboek zijn altijd welkom, net zoals je suggesties op alles binnen Picqer.
 
@@ -48,7 +48,7 @@ Bekijk ook de uitgebreide [uitleg van onze kernwaarden](Kernwaarden.md).
 
 **Blijven verbeteren**
 - *Perfection is the enemy of done.* We kunnen altijd alles nog verbeteren. Wacht daarom niet te lang met iets te lanceren of te delen. En niet alleen met software, maar ook met kleine documenten. Het gaat om vooruitgang, push wat je hebt en ga er later op verder. Zo ook dit handboek.
-- "Elke dag een beetje beter" zeggen ze bij Coolblue. Het is beter om in kleine stapjes beter te worden en elke dag te verbeteren, dan maanden werken aan iets wat je in 1 grote klap lanceert. Dat proberen we bij Picqer ook.
+- "Elke dag een beetje beter" zeggen ze bij Coolblue. Het is beter om in kleine stapjes beter te worden en elke dag te verbeteren, dan maanden te werken aan iets dat je in 1 grote klap lanceert. Dat proberen we bij Picqer ook.
 
 **Feedback**
 - Sta open voor suggesties van anderen en geef anderen suggesties. Tenslotte kunnen we alles nog verbeteren en kunnen we over alles praten.
@@ -60,8 +60,8 @@ Bekijk ook de uitgebreide [uitleg van onze kernwaarden](Kernwaarden.md).
 - Als we realiseren dat we een fout gemaakt hebben, herstellen we die en laten we betrokken partijen proactief weten wat er mis is gegaan en hoe we dat hebben opgelost.
 - Maak geen grappen over geslacht, ras, afkomst, huidskleur of geaardheid.
 - Gebruik 'inclusieve' taal waarbij je niet (onbewust) groepen uitsluit: 'Hoi iedereen' of 'Hallo allemaal' in plaats van 'Hey jongens'. Dit geldt ook voor grappige opmerkingen zoals: 'doe niet zo pussy' of 'jij hebt ook geen ballen', wat lijkt te suggereren dat mannen stoerder zijn dan vrouwen.
-- Je hoeft het niet te accepteren als iemand je slecht behandeld, ook niet als dat een klant of een belangrijke leverancier is.
-- Wees erop bedacht dat niet iedereen het beste met je voor heeft. Zo zijn er mensen die zich voordoen als iemand anders of proberen fysieke of digitale goederen te stelen. Bij twijfel direct ingrijpen. Het is beter als we ons achteraf verontschuldigen als het onterecht blijkt, dan dat ze er mee wegkomen.
+- Je hoeft het niet te accepteren als iemand je slecht behandelt, ook niet als dat een klant of een belangrijke leverancier is.
+- Wees erop bedacht dat niet iedereen het beste met je voor heeft. Zo zijn er mensen die zich voordoen als iemand anders of proberen fysieke of digitale goederen te stelen. Bij twijfel: direct ingrijpen. Het is beter als we ons achteraf verontschuldigen als het onterecht blijkt, dan dat ze er mee wegkomen.
 
 ## Je eerste dag<a name="eerste-dag"></a>
 Leuk dat je bij Picqer begint! Deze stappen helpen je om snel aan de slag te gaan.
@@ -73,10 +73,10 @@ Voor vragen kan je natuurlijk bij iedereen terecht, maar je krijgt ook een 'budd
 ### Je werkplek en de tools
 Als je aankomt staat de basis van je [werkplek](Werkplek-werktijden.md) al klaar, zoals je laptop, bureau en stoel. Je ontvangt van ons toegang tot onze [belangrijkste tools](#tools).
 
-Zorg dat je voor elke tool een ander wachtwoord gebruikt. Beheer je wachtwoorden met 1Password. Voor Google Apps en de Picqer Admin ontvang je van ons een wachtwoord. Voor de andere tools krijg je een uitnodiging om je eigen account aan te maken. Schakel voor elke tool (die het ondersteund) 2-factor authentication (2FA) in, 1Password heeft ondersteuning voor 2FA om het inloggen makkelijk te houden.
+Zorg dat je voor elke tool een ander wachtwoord gebruikt. Beheer je wachtwoorden met 1Password. Voor Google Apps en de Picqer Admin ontvang je van ons een wachtwoord. Voor de andere tools krijg je een uitnodiging om je eigen account aan te maken. Schakel voor elke tool (die het ondersteunt) 2-factor authentication (2FA) in, 1Password heeft ondersteuning voor 2FA om het inloggen makkelijk te houden.
 
 ### Leer je collega's kennen
-Een leuke werkplek hangt samen met een leuk team. Om iedereen te leren kennen kan je met een ieder een speeddate plannen. Zo leer je iedereen met wie je werkt al gelijk iets beter kennen. Een speeddate duurt ongeveer 15 minuten. Ga even apart zitten of loop samen een rondje.
+Een leuke werkplek hangt samen met een leuk team. Om iedereen te leren kennen kan je met eenieder een speeddate plannen. Zo leer je iedereen met wie je werkt al gelijk iets beter kennen. Een speeddate duurt ongeveer 15 minuten. Ga even apart zitten of loop samen een rondje.
 
 ### Inlezen
 Meestal is het fijn eerst interne documentatie en communicatie te lezen, zodat je een gevoel hebt hoe Picqer werkt en hoe we onderling samenwerken. Al die informatie staat zoveel mogelijk op Basecamp, ons intranet. [Dit is het startpunt](https://3.basecamp.com/3093964/buckets/1781603/documents/2519103430) voor interne informatie op Basecamp.
@@ -123,11 +123,11 @@ We hebben lekkere koffie uit een goede koffiemachine, thee en onze koelkast is g
 Suggesties voor boodschappen kan je doorgeven aan Stephan.
 
 ## Vakantie en verlof<a name="verlof"></a>
-Goede prestaties hangen samen met goed ontspannen. We hechten er veel waarde aan dat je regelmatig vakantie neemt en geniet van momenten met vrienden en familie. Daarom is het de bedoeling dat je vakantieuren opneemt in het jaar dat je ze hebt verdient. 
+Goede prestaties hangen samen met goed ontspannen. We hechten er veel waarde aan dat je regelmatig vakantie neemt en geniet van momenten met vrienden en familie. Daarom is het de bedoeling dat je vakantieuren opneemt in het jaar dat je ze hebt verdiend.
 
 Vakantieuren kan je niet meenemen naar het volgende kalenderjaar, dit om je te motiveren continu je vakantie te gebruiken voor je rust.
 
-Indien je meer vakantie nodig hebt dan je nog tegoed hebt kan je in overleg onbetaald verlof krijgen.
+Indien je meer vakantie nodig hebt dan je nog tegoed hebt, kan je in overleg onbetaald verlof krijgen.
 
 ### Feestdagen
 Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vrij op de volgende dagen:
@@ -143,9 +143,9 @@ Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vri
 ### Verlof en vrije dagen registreren
 We registeren verlof via Verlof App op https://app.rework.nl. Je krijgt daarop je eigen account om je vrije dagen en verlof te registreren. (De app noemt het "aanvragen", maar je mag je eigen verlof goedkeuren.) Daar vind je ook het overzicht van je beschikbare en gebruikte uren.
 
-Wanneer je een vrije dag of vakantie neemt bepaal je zelf. Je hoeft daarvoor geen goedkeuring te vragen. Voor een enkele vrije dag hoef je niet met je team te overleggen, voor een week of meer is het wel fijn als je met je team overlegd of vakanties niet te veel overlappen. In de support en sales teams is de bezetting en capaciteit wel belangrijk, daar is overleg voor een enkele vrije dag wel gewenst.
+Wanneer je een vrije dag of vakantie neemt, bepaal je zelf. Je hoeft daarvoor geen goedkeuring te vragen. Voor een enkele vrije dag hoef je niet met je team te overleggen, voor een week of meer is het wel fijn wanneer je met je team overlegt of vakanties niet te veel overlappen. In de support en sales teams is de bezetting en capaciteit wel belangrijk, daar is overleg voor een enkele vrije dag wel gewenst.
 
-In de app zie je ook ingepland verlof van de rest van het team. Zo kan je al kijken of gewenste verlof overlapt met de rest van het team.
+In de app zie je ook ingepland verlof van de rest van het team. Zo kan je al kijken of het gewenste verlof overlapt met de rest van het team.
 
 De registratie in de Verlof App is vooral voor het totale aantal vakantiedagen. Je hoeft niet elke week precies het aantal uur van je contract te maken. We verwachten dat je zelf in de gaten houdt dat je gemiddeld die uren werkt, de ene week zal dat iets meer zijn dan de andere. Als je bijvoorbeeld een dag 2 uur minder werkt en die tijd in dezelfde week op een andere manier maakt, hoef je dat niet te registreren.
 
@@ -162,14 +162,14 @@ Duurt je ziekte langer dan 1 dag, laat Stephan of Casper dan elke 1 of 2 dagen w
 We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je zo snel mogelijk weer (gedeeltelijk) aan het werk kan. We zijn wettelijk verplicht te zorgen dat je zo kort mogelijk ziek bent en wij besteden het uit zodat dit zo goed mogelijk gebeurt. De arbodienst neemt vaak contact op als je langer dan 1 week ziek bent.
 
 ## Nevenactiviteiten<a name="nevenactiviteiten"></a>
-We vinden het leuk dat je naast je werk een activiteit hebt om energie in te steken of van te krijgen. Vraag voordat je aan nevenactiviteiten begint toestemming bij Stephan. 
+We vinden het leuk dat je naast je werk een activiteit hebt om energie in te steken of van te krijgen. Vraag voordat je aan nevenactiviteiten begint toestemming bij Stephan.
 
 Er zijn een paar richtlijnen om op te letten bij nevenactiviteiten:
-- Er is geen belangenverstrengeling. Dit kan het geval zijn wanneer je activiteiten uitvoert die gerelateerd zijn aan je werk bij Picqer of aan Picqer als bedrijf. 
+- Er is geen belangenverstrengeling. Dit kan het geval zijn wanneer je activiteiten uitvoert die gerelateerd zijn aan je werk bij Picqer of aan Picqer als bedrijf.
 - Sommige informatie die je via Picqer kent is vertrouwelijk. Vanzelfsprekend mag je deze informatie niet gebruiken bij je nevenactiviteiten.
 - Zorg dat je voor je werk bij Picqer altijd voldoende energie hebt en genoeg rust houdt. We geven daar veel aandacht aan tijdens je werk bij Picqer, bij je nevenactiviteiten moet je hier zelf goed op letten.
 
-Deze richtlijnen en je eigen gevoel geven je vaak aan wat er wel en niet kan. Overleg bij twijfel altijd even met Stephan of Casper. 
+Deze richtlijnen en je eigen gevoel geven je vaak aan wat er wel en niet kan. Overleg bij twijfel altijd even met Stephan of Casper.
 
 ## Veiligheid en privacy<a name="privacy"></a>
 
@@ -181,7 +181,7 @@ Wist je dat er heel veel dingen vallen onder 'privacy'? Alles wat gaat over een 
 Controleer bij twijfel eerst bij collega's of iets gevoelige informatie zou kunnen zijn.
 
 ### Klantgegevens
-In sommige rollen heb je (beperkt) toegang tot gegevens van klanten, zoals het zien van producten en bestellingen die in Picqer zitten. Dit heb je om klanten zo goed en zo snel mogelijk te helpen. Het bekijken of gebruiken van deze gegevens voor iets anders dan de klant helpen, ook al is het alleen voor je eigen interesse, is ontoelaatbaar. 
+In sommige rollen heb je (beperkt) toegang tot gegevens van klanten, zoals het zien van producten en bestellingen die in Picqer zitten. Dit heb je om klanten zo goed en zo snel mogelijk te helpen. Het bekijken of gebruiken van deze gegevens voor iets anders dan de klant helpen, ook al is het alleen voor je eigen interesse, is ontoelaatbaar.
 
 Mocht je de verleiding niet kunnen weerstaan dan zullen we gepaste maatregelen nemen, mogelijk zelfs ontslag of aangifte. Dat is hoe serieus we dit nemen!
 
