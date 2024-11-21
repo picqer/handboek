@@ -120,7 +120,7 @@ Elke dag om 12:30 uur nemen we de tijd voor een gezamenlijke lunch. Een mooi mom
 
 We hebben lekkere koffie uit een goede koffiemachine, thee en onze koelkast is gevuld met fris. Voor de lekkere trek voorzien we in fruit en kleine versnaperingen.
 
-Suggesties voor boodschappen kan je doorgeven aan Stephan.
+Suggesties voor boodschappen kan je doorgeven aan Marieke.
 
 ## Vakantie en verlof<a name="verlof"></a>
 Goede prestaties hangen samen met goed ontspannen. We hechten er veel waarde aan dat je regelmatig vakantie neemt en geniet van momenten met vrienden en familie. Daarom is het de bedoeling dat je vakantieuren opneemt in het jaar dat je ze hebt verdiend.
