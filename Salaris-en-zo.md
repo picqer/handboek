@@ -13,9 +13,11 @@ De hoogte van het salaris stellen we jaarlijks bij op basis van de markt. Ons do
 Na elk volledig jaar dat je bij Picqer hebt gewerkt, verhogen we je basissalaris met 2,5% loyaliteitsbonus. Dit omdat je meer kennis hebt over Picqer en de markt, maar ook omdat je al langer invloed hebt op het succes van Picqer. Een beloning voor lange-termijn-denken.
 
 ### Reiskostenvergoeding
-Je ontvangt reiskostenvergoeding zoals in Nederland gebruikelijk is, op dit moment 0,19 euro per kilometer belastingvrij. Voor bezoeken aan klanten en beurzen ontvang je dit voor elke kilometer die je hebt afgelegd. Voor woon-werkverkeer ontvang je dit vanaf 10 kilometer enkele reis.
+Je ontvangt reiskostenvergoeding zoals in Nederland gebruikelijk is, op dit moment 0,23 euro per kilometer belastingvrij. Dus als je op 26 kilometer vanaf ons kantoor woont, ontvang je voor 2x 26km reiskostenvergoeding per dag dat je op kantoor werkt.
 
-Dus als je op 26 kilometer vanaf ons kantoor woont, ontvang je voor 2x 16km reiskostenvergoeding per dag dat je op kantoor werkt.
+- Reiskostenvergoeding voor woon-werkverkeer wordt toegekend voor een enkele reis vanaf een afstand van 10 kilometer.
+
+- Voor bezoeken aan klanten en beurzen ontvang je dit voor elke kilometer die je hebt afgelegd.
 
 Als je met het openbaar vervoer reist, vergoeden we het abonnement voor het woon-werk traject.
 
@@ -39,4 +41,8 @@ Daarnaast geeft BrightPensioen je informatie over het opbouwen van pensioen. Ze 
 De kosten van het lidmaatschap bij BrightPensioen vergoeden wij zolang je bij ons werkt. Wanneer je aan de slag wilt met BrightPensioen kan Stephan je aanmelden. Het staat je vrij om op een andere manier of bij een andere partij je pensioen op te bouwen. Wij vergoeden in dat geval jaarlijks 80% van de lidmaatschapskosten van BrightPensioen.
 
 ### Declaraties
-Declaraties kan je indienen via het [salarisportaal van Employes](https://app.employes.nl). Na goedkeuring wordt deze bij je eerstvolgende salaris uitgekeerd.
+Declaraties kan je opgeven via [HoorayHR](https://app.hoorayhr.io/authentication/login).
+
+Kies in het menu voor Declaraties. Voeg daar een nieuwe declaratie toe. Er zijn 2 type declaraties: **reiskosten** en **declaraties**.
+
+Zodra de declaratie is verwerkt wordt deze terugbetaald.
