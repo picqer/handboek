@@ -82,7 +82,7 @@ Een leuke werkplek hangt samen met een leuk team. Om iedereen te leren kennen ka
 Meestal is het fijn eerst interne documentatie en communicatie te lezen, zodat je een gevoel hebt hoe Picqer werkt en hoe we onderling samenwerken. Al die informatie staat zoveel mogelijk op Basecamp, ons intranet. [Dit is het startpunt](https://3.basecamp.com/3093964/buckets/1781603/documents/2519103430) voor interne informatie op Basecamp.
 
 ### Aanmelden voor de salarisadministratie
-Om je wel verdiende buit aan je over te maken hebben we extra gegevens van je nodig. Je ontvangt per mail een uitnodiging om een formulier in te vullen waarmee we in één keer alles hebben voor de salarisadministratie. Heb je de mail nog niet gehad, klop dan even bij Stephan aan.
+Om je wel verdiende buit aan je over te maken hebben we extra gegevens van je nodig. Je ontvangt per mail een uitnodiging om een formulier in te vullen waarmee we in één keer alles hebben voor de salarisadministratie. Heb je de mail nog niet gehad, klop dan even bij Marieke aan.
 
 ### Aan de slag
 Hierna moedigen we je aan om in het diepe te springen. Overleg met je directe collega’s of je buddy wat je eerste echte taken worden. In de meeste gevallen zal dit aan het begin van je 2e dag zijn.
@@ -92,9 +92,9 @@ Na 1-2 weken is het meestal een mooi moment om jezelf te introduceren aan onze g
 
 Zie je voorgangers voor inspiratie:
 
-- Désirée https://picqer.com/nl/blog/introductie-desiree
 - Kasper https://picqer.com/nl/blog/introductie-kasper
 - Anna https://picqer.com/nl/blog/introductie-anna
+- Bob https://picqer.com/nl/blog/introductie-bob
 
 ## Elke dag<a name="elke-dag"></a>
 Als je binnenkomt is het fijn iedereen te begroeten, zolang je ze niet stoort in hun werk.
@@ -141,25 +141,35 @@ Naast je vrije dagen die je naar eigen inzicht kan opnemen, zijn we allemaal vri
 - Eerste en tweede kerstdag (25 en 26 december)
 
 ### Verlof en vrije dagen registreren
-We registeren verlof via Verlof App op https://app.rework.nl. Je krijgt daarop je eigen account om je vrije dagen en verlof te registreren. (De app noemt het "aanvragen", maar je mag je eigen verlof goedkeuren.) Daar vind je ook het overzicht van je beschikbare en gebruikte uren.
+We registeren verlof via [HoorayHR](https://app.hoorayhr.io/authentication/login). Je krijgt daarop je eigen account om je vrije dagen en verlof te registreren. (De app noemt het "aanvragen", maar je keurt je eigen verlof goed.) Daar vind je ook het overzicht van je beschikbare en gebruikte uren.
 
-Wanneer je een vrije dag of vakantie neemt, bepaal je zelf. Je hoeft daarvoor geen goedkeuring te vragen. Voor een enkele vrije dag hoef je niet met je team te overleggen, voor een week of meer is het wel fijn wanneer je met je team overlegt of vakanties niet te veel overlappen. In de support en sales teams is de bezetting en capaciteit wel belangrijk, daar is overleg voor een enkele vrije dag wel gewenst.
+Wanneer je een vrije dag of vakantie neemt bepaal je zelf. Je hoeft daarvoor geen goedkeuring te vragen. Voor een enkele vrije dag hoef je niet met je team te overleggen, voor een week of meer is het wel fijn als je met je team overlegt of vakanties niet te veel overlappen. In de support en sales teams is de bezetting en capaciteit wel belangrijk, daar is overleg voor een enkele vrije dag wel gewenst.
 
-In de app zie je ook ingepland verlof van de rest van het team. Zo kan je al kijken of het gewenste verlof overlapt met de rest van het team.
+In de app zie je ook ingepland verlof van de rest van het team. Zo kan je al kijken of gewenste verlof overlapt met de rest van het team.
 
-De registratie in de Verlof App is vooral voor het totale aantal vakantiedagen. Je hoeft niet elke week precies het aantal uur van je contract te maken. We verwachten dat je zelf in de gaten houdt dat je gemiddeld die uren werkt, de ene week zal dat iets meer zijn dan de andere. Als je bijvoorbeeld een dag 2 uur minder werkt en die tijd in dezelfde week op een andere manier maakt, hoef je dat niet te registreren.
+De registratie in HoorayHR is vooral voor het totale aantal vakantiedagen. Je hoeft niet elke week precies het aantal uur van je contract te maken. We verwachten dat je zelf in de gaten houdt dat je gemiddeld die uren werkt, de ene week zal dat iets meer zijn dan de andere. Als je bijvoorbeeld een dag 2 uur minder werkt en die tijd in dezelfde week op een andere manier maakt, hoef je dat niet te registreren.
 
 ### Dokter- of tandartsbezoek
-Moet je naar de dokter of tandarts? Probeer dit buiten werktijd te plannen. Lukt dat niet, plan het dan zo vroeg of zo laat mogelijk op de dag. De tijd die je toch tijdens werktijd nodig hebt geldt niet als vrij en wordt doorbetaald. Registreer deze tijd via [Verlof App](https://app.rework.nl), onder de categorie "Dokter, tandarts".
+Bij Picqer werken we flexibel. Het is dus prima om even tijdens werktijd te sporten of te wandelen, mits je zorgt dat het logisch gepland wordt. Ook as je naar de dokter of tandarts moet, zorg je dus dat dit logisch gepland wordt. Lukt dat niet, plan het dan zo vroeg of zo laat mogelijk op de dag. De tijd die je toch tijdens werktijd nodig hebt, geldt niet als verlof en wordt doorbetaald. Registreer deze tijd dan wel via HoorayHR als Bijzonder Verlof.
 
 ### Ziekte
 Ziek zijn is erg vervelend. Maar ziek is ziek, en het is belangrijk dat je goed beter wordt voordat je weer aan het werk gaat.
 
-Als je ziek bent laat je dat zo vroeg mogelijk weten aan Stephan of Casper. Je bent niet verplicht te vertellen ‘wat’ je hebt. Probeer wel aan te geven hoe lang je denkt dat het gaat duren.
+Als je ziek bent, laat dit dan zo vroeg mogelijk weten aan de lead van je team, per e-mail of Slack.
 
-Duurt je ziekte langer dan 1 dag, laat Stephan of Casper dan elke 1 of 2 dagen weten wat de stand van zaken is. We horen het ook graag als je weet wanneer je weer komt.
+De teamlead geeft het dezelfde dag door aan Marieke, die het verwerkt in de verzuimadministratie.
 
-We melden je ziekte ook bij de arbodienst, die probeert ervoor te zorgen dat je zo snel mogelijk weer (gedeeltelijk) aan het werk kan. We zijn wettelijk verplicht te zorgen dat je zo kort mogelijk ziek bent en wij besteden het uit zodat dit zo goed mogelijk gebeurt. De arbodienst neemt vaak contact op als je langer dan 1 week ziek bent.
+- Na deze ziekmelding bij je teamlead mag je jezelf ziekmelden in HoorayHR, of de teamlead/Marieke kan dit voor je doen.
+- De teamlead informeert het team over je afwezigheid, indien nodig.
+Indien de teamlead afwezig is, kun je terecht bij de volgende persoon in deze volgorde: Marieke > Stephan > Casper. Die persoon zal de afwezigheid doorgeven aan het team.
+
+Ben je teamlead en ben je ziek, meld dit dan bij Marieke. Bij haar afwezigheid volg je dezelfde volgorde.
+
+Je hoeft niet te vertellen wat je hebt, we mogen dat ook niet vragen. Probeer wel aan te geven hoe lang je denkt dat het gaat duren en in hoeverre je eventueel inzetbaar bent.
+
+Duurt je ziekte langer dan 1 dag, spreek dan met je teamlead af wanneer je een update over de stand van zaken geeft. Verder geef je door wanneer je weer beter bent, of weer deels aan de slag denkt te kunnen gaan.
+
+Of verzuim wegens ziekte kort blijft, is soms niet te voorspellen, daarom melden wij al het verzuim langer dan 1 dag bij de verzuimverzekering en arbodienst. De dag van ziekmelding is de eerste ziektedag. Vanaf dan loopt de verzuimperiode.
 
 ## Nevenactiviteiten<a name="nevenactiviteiten"></a>
 We vinden het leuk dat je naast je werk een activiteit hebt om energie in te steken of van te krijgen. Vraag voordat je aan nevenactiviteiten begint toestemming bij Stephan.
@@ -210,6 +220,9 @@ Overige mijlpalen:
 - 2019: Johan, Kasper, Anna, Ramon en Bob bij het team gekomen
 - 2019: Picqer wint FD Gazellen als #1 van Gelderland en #40 van Nederland
 - 2020: Kim, Erik, Kay en Lisa bij het team gekomen. Door het coronavirus werken we sinds begin maart allemaal thuis.
+- 2021: Rob, Jefta, Berdien, Wahid, Ismay, Mark en Katja bij het team gekomen. Het (verplicht) thuiswerken blijft deels van kracht.
+- 2022: We bestaan dit jaar 10 jaar! 🎉 Charlotte, Marieke, Sander, Jeroen, Nick, Marco, Naomi, Denise en Guido bij het team gekomen
+- 2023: Hugo, Wouter, Arjan, Frank, Noa, Martijn en Jodie komen bij het team
 
 ## Inspiratie handboeken
 Dit zijn andere gave handboeken waar we inspiratie uit gehaald hebben:
