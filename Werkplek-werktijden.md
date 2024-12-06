@@ -9,7 +9,7 @@ Daarom zeggen we nu: het kantoor is *een* werkplek, maar niet *dé* werkplek. Ie
 Je hoeft ook niet regelmatig naar kantoor te komen. Het is zelfs prima als je nooit naar kantoor komt. Zolang je maar een goede werkplek hebt waar je in rust kan werken.
 
 ## Inrichting werkplek
-Om je beste werk te doen heb je ook de beste spullen nodig. Standaard krijgt iedereen een MacBook, een goed beeldscherm, toetsenbord en muis. Maar (bijna) alles wat je nodig hebt om je werk beter te maken kan je krijgen. Geef aan Stephan of Casper aan wat je nodig hebt en we zorgen dat het er komt.
+Om je beste werk te doen heb je ook de beste spullen nodig. Standaard krijgt iedereen een MacBook, een goed beeldscherm, toetsenbord en muis. Maar (bijna) alles wat je nodig hebt om je werk beter te maken kan je krijgen. Geef bij Marieke aan wat je nodig hebt en we zorgen dat het er komt.
 
 Je kan denken aan een specifieke toetsenbord of muis, een trackpad, koptelefoon, webcam of andere dingen voor je computer. Maar ook aan notitieboekjes, pennen en andere dingen rond je werkplek.
 
