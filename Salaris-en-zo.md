@@ -9,9 +9,6 @@ Een junior is iemand die net van school komt en nog in de eerste jaren van deze 
 ### Salaris
 De hoogte van het salaris stellen we jaarlijks bij op basis van de markt. Ons doel is om aan de bovenkant van de markt te zitten, zodat het salaris geen reden is om niet bij Picqer te komen werken.
 
-### Loyaliteitsbonus
-Na elk volledig jaar dat je bij Picqer hebt gewerkt, verhogen we je basissalaris met 2,5% loyaliteitsbonus. Dit omdat je meer kennis hebt over Picqer en de markt, maar ook omdat je al langer invloed hebt op het succes van Picqer. Een beloning voor lange-termijn-denken.
-
 ### Reiskostenvergoeding
 Je ontvangt reiskostenvergoeding zoals in Nederland gebruikelijk is, op dit moment 0,23 euro per kilometer belastingvrij. Dus als je op 26 kilometer vanaf ons kantoor woont, ontvang je voor 2x 26km reiskostenvergoeding per dag dat je op kantoor werkt.
 
